@@ -1,0 +1,8 @@
+timestamp,merchant_id,comment,issue_status,issue_id,resolved_at,live_status,live_at,actor_type
+2025-10-01T21:15:00,merch_001,"Having trouble with discount setup",reported,101,,not_live,,merchant
+2025-10-01T22:40:00,merch_002,"Installed and works, thanks!",resolved,102,2025-10-02T10:05:00,live,2025-10-02T13:00:00,merchant
+2025-10-02T05:30:00,merch_001,"Any update on my ticket?",open,101,,not_live,,merchant
+2025-10-02T11:10:00,merch_003,"Theme conflict when adding widget",reported,103,,not_live,,merchant
+2025-10-02T19:45:00,merch_004,"All good after support fix",resolved,104,2025-10-02T20:10:00,live,2025-10-03T09:00:00,merchant
+2025-10-03T00:20:00,merch_005,"Checkout upsell not triggering",reported,105,,not_live,,merchant
+2025-10-03T08:35:00,merch_002,"Post-go-live looks great",resolved,102,2025-10-02T10:05:00,live,2025-10-02T13:00:00,merchant

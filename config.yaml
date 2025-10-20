@@ -1,0 +1,9 @@
+timestamp_col: timestamp
+merchant_id_col: merchant_id
+comment_col: comment
+issue_status_col: issue_status
+issue_id_col: issue_id
+resolution_timestamp_col: resolved_at
+live_status_col: live_status
+live_timestamp_col: live_at
+actor_type_col: actor_type
