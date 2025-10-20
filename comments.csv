@@ -1,0 +1,1731 @@
+date,member,memberId,card,cardId,list,comment
+2025-09-30T17:23:45.594Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68dc121deb9e5b2d5477112d/download/image.png)
+2025-09-30T17:15:23.831Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68dc102832024df62d8ca8ff/download/image.png)
+2025-09-30T17:14:55.918Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,"‌
+
+Attached is a spreadsheet showing the logic for free LAB GROWN diamonds with purchase of Designer Setting.
+
+\*\*All credits and values are based upon a ROUND shape G VS2 quality.\*\*
+
+If they select the standard G VS2 free lab diamond option we will select the round stone internally.
+
+If they want a different SHAPE or QUALITY the logic would apply.
+
+For customers that want to select their own lab diamond the calculation would be as follows:
+
+A setting priced at 1000-1999 MSRP would qualify for a FREE 3/4ct. Lab center G VS2.
+
+This would allow for any lab diamond they select that is over $600 to just pay the amount over that $600 price. If they pick something $600 or less of any shape or quality its free.
+
+Same thing applies as the setting price increases and credit values increase as shown in the chart.
+
+The actual credit values would remain in the background. Although the customer would be able to figure out the amount there is no need to actually promote the credit value.
+
+Please let me know if you need further clarification at this time.
+
+Thank you for your help! [Free lab breakdown JEWELRYEXPO (1).xlsx](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68dc10066a0a1d9eb1df6c06/download/Free_lab_breakdown_JEWELRYEXPO_(1).xlsx ""‌"")"
+2025-09-30T16:40:39.798Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"I have created a test customer with the correct authorization:
+test@patchpanel.ca
+
+Lead Button Pusher
+PatchPanel"
+2025-09-30T16:40:27.415Z,Samiul Alim,65a11752f9822c63c9cde145,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,"fix applied , changed original_price to variant_price in Product component. Need to deploy"
+2025-09-30T15:44:41.983Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,"![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68dbf9d5bf0a206a84c6d346/download/image.png)
+
+‌
+
+in the PDP widget - it shows full price
+
+‌
+
+however in the cart it shows real price of $7
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68dbf9f30374d694badf13e7/download/image.png)
+
+in shopify - it is $7
+
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68dbfa20839ceaf03f9992a4/download/image.png)
+
+‌
+
+also i dont know why on the PDP it shows ""ADD A SOCK"" i removed it - it does not show in the cart
+
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68dbfa5eca13148b4b718a85/download/image.png)"
+2025-09-30T15:35:32.749Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,@ab1dhasan  reached out to merchant for this
+2025-09-30T15:33:05.990Z,Abid Hasan,655f10d096353b8333e8babf,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,@ismailhossain64 need a customer email that has “Canadian Forces” metafield
+2025-09-30T15:30:31.309Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"This might help: [https://trello.com/c/lA9mZExT#comment-68d7af8d0589f4a959850f2b](https://trello.com/c/lA9mZExT#comment-68d7af8d0589f4a959850f2b ""‌"")
+
+@ab1dhasan"
+2025-09-30T15:28:46.004Z,Abid Hasan,655f10d096353b8333e8babf,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,@ismailhossain64 how do i re-create the issue?
+2025-09-30T15:24:23.645Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"[https://dynamatic.reamaze.com/admin/conversations/just-wanted-to-report-a-bug](https://dynamatic.reamaze.com/admin/conversations/just-wanted-to-report-a-bug ""‌"")
+
+[https://gyazo.com/4cd8b834e910026825f6a76e0f0ebc22](https://gyazo.com/4cd8b834e910026825f6a76e0f0ebc22 ""smartCard-inline"")
+
+![image.png](https://trello.com/1/cards/67505d253f093a932621a9b8/attachments/68dbf6201529c24f3c141bb3/download/image.png)"
+2025-09-30T14:25:24.058Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"Reported
+
+![image.png](https://trello.com/1/cards/67505d253f093a932621a9b8/attachments/68dbe84f02525fcf54acff74/download/image.png)"
+2025-09-30T12:51:47.006Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"For reviews - i would like it similar to the screenshot i added but in the same placement as you've put them currently. It would be ideal to add the amount of reviews its got so it doesnt look like i've just added 5 stars onto every upsell.
+
+‌
+
+Also - we use loop for subscriptions - does this automatically put them into the Loop system [cart new.pptx](https://trello.com/1/cards/664b0e0d990265fd02b7139d/attachments/68dbd254571c7fbd60f6ae8d/download/cart_new.pptx ""‌"")"
+2025-09-29T21:13:38.236Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"‌
+
+Hi guys! Hope you had a good weekend. Is it possible to add to the cart the current discount code that is applied, whether its added in the cart or applied automatically to all items/purchases? We have customers confused about our promotion because they see slashed out pricing but don't know where it is coming from without going to checkout.
+
+‌
+
+Either at the bottom of the art above the price or on each line item, something like ""Code ""xxx"" applied (-$XX)
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68daf679a86784cd8fac7e53/download/image.png)
+
+Example from our old theme"
+2025-09-29T16:50:41.264Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,theres a bug here: https://www.loom.com/share/5a69cee7ba5846f7aaa2d069d7356654
+2025-09-29T14:31:58.666Z,Ismail Hossain,6800d488046a27c80487e85a,coffee-beanery1.myshopify.com,66387e4a84281697d0eb3e2e,Live,Having cart issue again...people keep saying they can't see or remove things from their cart
+2025-09-29T14:14:01.863Z,Ismail Hossain,6800d488046a27c80487e85a,tradlands.myshopify.com,67131864b9a338538eba119d,Live,to answer your question this has happened only once. But there has been only 1 ever upsell order completed. So the first time an upsell was successful the payment was not completed as well.
+2025-09-29T10:50:07.657Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"[https://dynamatic.reamaze.com/admin/conversations/just-wanted-to-report-a-bug](https://dynamatic.reamaze.com/admin/conversations/just-wanted-to-report-a-bug ""‌"")"
+2025-09-29T10:49:05.573Z,Ismail Hossain,6800d488046a27c80487e85a,blackmapletrading.myshopify.com,664ede738b5be102023a3c4a,Live,"Followed up
+
+
+![image.png](https://trello.com/1/cards/664ede738b5be102023a3c4a/attachments/68da641c0b3bff5c962b6950/download/image.png)"
+2025-09-29T10:31:27.918Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,"Asked confirmation and details for custom widget behavior.
+
+![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68da5fe3cf2c58ac89ee08f4/download/image.png)"
+2025-09-29T10:05:55.607Z,Ismail Hossain,6800d488046a27c80487e85a,testingforen.myshopify.com,68cacafde28e852c5eb03be2,In Progress,"[https://ecompropeller.reamaze.com/admin/conversations/hi-team-i-am-sorry-to-message-on-a-weekend](https://ecompropeller.reamaze.com/admin/conversations/hi-team-i-am-sorry-to-message-on-a-weekend ""‌"")
+
+
+Reported"
+2025-09-29T04:09:44.881Z,Rumi,65640aabb59bec9ff96b60a1,testingforen.myshopify.com,68cacafde28e852c5eb03be2,In Progress,"@ismailhossain64
+
+**Hi, thanks so much for reaching out — and no need to apologize for messaging on the weekend! We’re always happy to help you get the most out of Dynamatic.**
+
+**FBT Slider Issue**
+I went ahead and turned on the **Force Slide Per-View** toggle. Now it should be working properly — showing 1 slide for mobile and 3 for larger devices, just the way you wanted.
+
+**Before You Go on Checkout**
+This one wasn’t displaying because it was configured on a duplicate checkout profile instead of your live one. I’ve fixed that and added it to your live checkout, so it should now display correctly.
+
+**Empty Cart Widget Customizations**
+Since every store has its own unique design style, we don’t overload widgets with too many customization settings. Instead, we make it easy to handle styling through **Custom CSS**, which gives full flexibility. You can check all the CSS we’ve already written for your store here: [Custom CSS Settings](https://dashboard.dynamatics.app/settings/custom-css ""‌"").
+
+
+If you’d like to make further tweaks (like background or hover colors), you can either add them here yourself or simply share your requirements with us — even a quick design/mockup works. Our dev team is more than happy to write the code for you and make sure it looks perfect.
+
+Really glad to hear you’re finding the app more user-friendly — that means a lot to us! Don’t hesitate to reach out with even the smallest requests, we’re here to make things smooth for you."
+2025-09-28T10:29:31.198Z,Ismail Hossain,6800d488046a27c80487e85a,casemogul.myshopify.com,67c041c3c8a1a19b4a0bfbfc,Live,Reported
+2025-09-28T10:16:20.332Z,Rumi,65640aabb59bec9ff96b60a1,casemogul.myshopify.com,67c041c3c8a1a19b4a0bfbfc,Live,"@ismailhossain64
+
+Are you already handling the shipping promotion setup directly in Shopify? If so, we can definitely support you on the UI side for the Canadian market specifically. For example, we can display a bar above the cart that clearly shows the promo — something like _‘Spend $50 more to get shipping at $10’_. So, customers would be able to see how much more they need to spend to qualify.
+
+That way, your Canadian customers get a clear, tailored message about the promo, while your US customers won’t see it at all. Let us know if this sounds like what you had in mind, and we’ll be happy to set it up for you!"
+2025-09-27T18:22:33.199Z,Rumi,65640aabb59bec9ff96b60a1,tradlands.myshopify.com,67131864b9a338538eba119d,Live,"@ismailhossain64
+
+We’ve carefully investigated the issue for you, and I want to reassure you that our widgets don’t interfere with Shopify’s core settings. Could you please confirm whether this happened with just a single order or across multiple ones? From what we can see, it looks like the bank may have canceled the second transaction for the upsell item. This is very rare, and none of our other merchants have reported something similar before.
+
+One possible scenario could be that the customer’s account didn’t have sufficient funds for the upsell item, or there may have been another bank-related issue.
+
+To get more clarity, we’d recommend reaching out to Shopify Support — they’ll be able to dig into the payment logs and confirm exactly why this occurred. Of course, if you need us to support that conversation in any way, we’re happy to help."
+2025-09-27T14:58:52.188Z,Ismail Hossain,6800d488046a27c80487e85a,testingforen.myshopify.com,68cacafde28e852c5eb03be2,In Progress,"Hi team, I am sorry to message on a weekend! I'm struggling with some customisations (style settings). Nothing critical but.. (1) The FBT slide view setting displays for desktop/mobile are not working for me. I can only set to 3 on desktop now and I can't only get it to display only one card on mobile. (2) Before You Go on checkout is not displaying? I've uninstalled Rebuy now, in case it was clashing, and linked it to a Campaign but I guess I'm missing something. (3) I like the idea of the empty cart widget but removed it because I couldn't get the customisations around background and hover colours to change, and it didn't look great. Even now, with the widget removed, I can't for the life of me see where to effect the background colour.
+Sorry to come at you with basic issues. Looking forward to getting the hang of it and setting up more campaigns! Overall, I am finding the app a lot more user friendly in its logic and layout, and I really appreciate the lengths you took to set us up!"
+2025-09-27T09:34:05.843Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"Hey folks, a while back I had you setup a payment customization for me.
+
+It checked two things:
+1: If a Line Item Property VALUE contained 'CADPAT MT'
+2: If the customer metafield 'checkout blocks.trigger' contains ""Canadian Forces""
+
+If the line item property is present, but the metafield does not match, this should remove all payment methods, essentially blocking checkout.
+
+This hasn't been working for a while but we've been doing some work and I can say for certain that the customer metafield is passing to checkout, as the warning for this that is setup in a shopify checkout block is working correctly.
+
+Can I get you folks to look this over and make sure I haven't messed up a setting somewhere?
+
+Thanks!"
+2025-09-27T09:28:53.224Z,Rumi,65640aabb59bec9ff96b60a1,tradlands.myshopify.com,67131864b9a338538eba119d,Live,checking.
+2025-09-27T08:41:13.252Z,Ismail Hossain,6800d488046a27c80487e85a,tradlands.myshopify.com,67131864b9a338538eba119d,Live,"It seems my settings are set to auto capture payments already 
+
+See attachment"
+2025-09-27T08:40:36.406Z,Ismail Hossain,6800d488046a27c80487e85a,tradlands.myshopify.com,67131864b9a338538eba119d,Live,"Hi @channel can you see my somewhat URGENT question about a recent upsell order and capturing payment please?
+
+https://share.cleanshot.com/3LHM4FDh"
+2025-09-26T18:45:56.450Z,Ismail Hossain,6800d488046a27c80487e85a,casemogul.myshopify.com,67c041c3c8a1a19b4a0bfbfc,Live,"Hi there, I'm wondering if we can create a custom shipping discount ($ amount) to a specific market only (CAN). Currently our only shipping method is a $10 option, but we'd like to show that it's regularly priced at $17, but with the promotion we are having (indefinitely) the shipping promo is now $10 ($7 off), only for Canadian customers though. For US customers, they won't need to see this. Thanks!"
+2025-09-26T18:45:16.030Z,Ismail Hossain,6800d488046a27c80487e85a,casemogul.myshopify.com,67c041c3c8a1a19b4a0bfbfc,Live,"Hi there, I'm wondering if we can create a custom shipping discount ($ amount) to a specific market only (CAN). Currently our only shipping method is a $10 option, but we'd like to show that it's regularly priced at $17, but with the promotion we are having (indefinitely) the shipping promo is now $10 ($7 off), only for Canadian customers though. For US customers, they won't need to see this. Thanks!"
+2025-09-26T14:39:46.382Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,Reported
+2025-09-26T14:06:59.062Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,[cart start.pptx](https://trello.com/1/cards/664b0e0d990265fd02b7139d/attachments/68d69ddcd39759d0c380c830/download/cart_start.pptx) 
+2025-09-26T13:44:02.089Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"I checked out the cart and its looking good so far. Not sure if you guys are done yet, but some thoughts so far - the beige background should be more of a grey tone and that bottom part with the beige background should be shorter if possible so its not taking up as much realestate on mobile. I assume the payment method buttons will be updated with our actual payment methods available, or at least the top few? Shop Pay, PayPal, Amazon Pay, GPay? The lines above the payment methods could just be ""Guaranteed safe & secure checkout"" to save some space. Thanks for getting it done so quickly!"
+2025-09-26T13:25:04.582Z,Rumi,65640aabb59bec9ff96b60a1,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,Resolved. Surprise toy won’t be added anymore when the code LABOR25 is used with just the Pounce kit
+2025-09-26T13:24:24.248Z,Rumi,65640aabb59bec9ff96b60a1,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,Resolved. Surprise toy won’t be added anymore when the code LABOR25 is used with just the Pounce kit
+2025-09-26T13:15:31.757Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,"Thanks for clarifying - 
+
+Yes, I am referring to the Pounce Kit product in the online store.  
+
+The coupon code is set up to automatically add the surprise toy to the cart when any kit or bundle is added to the cart.  We want to remove the free surprise toy being added when the code LABOR25 is used with just the Pounce kit.  We still want the 10% off and free shipping to apply to the Pounce kit, and we still want all other kits and bundles to still add the free surprise toy, get free shipping, and get 10% off when added to cart.
+
+Let me know if this makes sense, thanks!
+
+Jeff"
+2025-09-26T12:27:59.173Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,"Post Purchase:
+in the post purchase offer - i am able to edit the message before the 50% ... but i cannot add anything AFTER 50%..
+
+how am i supposed to say ""Add a Bandana for 50% Off""
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d67f12c539bd59860570f9/download/image.png)
+
+
+PDP Feed:
+
+[https://littlebeast.co/products/flower-power-collar-ruby](https://littlebeast.co/products/flower-power-collar-ruby ""smartCard-inline"")  - this is showing customers also bought - another collar - we need to show the leash here
+
+
+also for PDP - customers also bought widget (feed) - i have this rule
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d6827e3d2cc67fb582e391/download/image.png)
+
+however nothing shows on this oage: [https://littlebeast.co/products/earth-and-fire-onesie?rrrerar](https://littlebeast.co/products/earth-and-fire-onesie?rrrerar ""smartCard-inline"")
+[https://littlebeast.co/products/lucky-floral-x-memorial-day-sweater](https://littlebeast.co/products/lucky-floral-x-memorial-day-sweater ""smartCard-inline"")
+
+[https://littlebeast.co/products/lucky-floral-x-memorial-day-sweater](https://littlebeast.co/products/lucky-floral-x-memorial-day-sweater ""smartCard-inline"")
+FBT:
+
+how is this rule displaying this combo? this is not a good recommendation
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d6832d56d10ec505b8bf13/download/image.png)
+
+[https://dashboard.dynamatics.app/rules-feeds/322](https://dashboard.dynamatics.app/rules-feeds/322 ""‌"") i do not see this rule here
+this is terrible suggestions
+
+we gotta make the rule so that the first product is the product page they are on + the second one is the suggestion
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d6843c3e28355533151113/download/image.png)
+
+[https://littlebeast.co/products/snoopy-chillin-carrier](https://littlebeast.co/products/snoopy-chillin-carrier ""smartCard-inline"")
+
+
+Analytics:
+
+how is the conversion rate calculated? shouldnt it be orders / impressinos?
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d6851e9fcc082f53e229a9/download/image.png)
+
+
+Discount:
+
+
+this discount is not working look at the sale price but it says 40% off
+
+
+[https://littlebeast.co/products/bulls-sweater?variant=49016452284702](https://littlebeast.co/products/bulls-sweater?variant=49016452284702 ""smartCard-inline"")
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d68568b224cf6ed6935334/download/image.png)
+
+
+Styling:
+
+
+can we make the the top match the bottom?
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d685904f88c7eb56d7cdbc/download/image.png)
+
+
+RulesFeed Observation: the rules engine needs to be smarter imo - as complex as rebuy was - their suggestions were better. maybe we need to comb through our rules more"
+2025-09-26T11:50:35.336Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,"[https://ecompropeller.reamaze.com/admin/conversations/coupon-adjustment](https://ecompropeller.reamaze.com/admin/conversations/coupon-adjustment ""‌"")
+
+Asked  for clarification"
+2025-09-26T11:23:37.903Z,Rumi,65640aabb59bec9ff96b60a1,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"@ismailhossain64
+
+All changes have been made, including trust pilot widget. Please report."
+2025-09-26T10:43:59.846Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"I have seen the progress of the cart - looking good. Just one thing regarding Trustpilot - the image is very blury.<!-- TrustBox widget - Micro Combo -->
+<div class=""trustpilot-widget"" data-locale=""en-US"" data-template-id=""5419b6ffb0d04a076446a9af"" data-businessunit-id=""4830a21c0000640005028578"" data-style-height=""20px"" data-style-width=""100%"" data-theme=""dark"" data-token=""beb3637c-db82-4c35-83ad-873f7d733041"">
+  <a href=""[https://www.trustpilot.com/review/www.discount-supplements.co.uk](https://www.trustpilot.com/review/www.discount-supplements.co.uk ""smartCard-inline"") "" target=""_blank"" rel=""noopener"">Trustpilot</a>
+</div>
+<!-- End TrustBox widget --><!-- TrustBox widget - Micro Combo -->
+<div class=""trustpilot-widget"" data-locale=""en-US"" data-template-id=""5419b6ffb0d04a076446a9af"" data-businessunit-id=""4830a21c0000640005028578"" data-style-height=""20px"" data-style-width=""100%"" data-token=""9cce32fb-998c-4952-8502-b7dee8d66244"">
+  <a href=""[https://www.trustpilot.com/review/www.discount-supplements.co.uk](https://www.trustpilot.com/review/www.discount-supplements.co.uk ""smartCard-inline"") "" target=""_blank"" rel=""noopener"">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->Light and dark mode codes"
+2025-09-25T17:37:26.663Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,"Remove the surprise toy from the product Pounce when users check out with the LABOR25 code?  Everything else will stay the same, this change just affects the Pounce product free toy.  Thanks!"
+2025-09-25T16:29:46.623Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"‌
+
+That works. We appreciate it! The name of the duplicate theme is Pitch - SImplified - for Dynamatic Cart Redesign
+
+The goal with the redesign is to make things clearer for the customer, and to increase the scrolling space of line items and lessen the static objects
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68d56bc309d77a2aa052df96/download/image.png)"
+2025-09-25T16:19:59.017Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"Hey guys! We have a big request today to basically redesign our cart. We're finding a lot of our drop off for conversion happening between add to cart and starting checkout and would like to improve that. We did some research on similar brands and have the following thoughts on what to change:
+
+- Upsell no longer sticky, you should scroll down to find it
+- Obvious that you need to scroll down: either an obvious scroll bar or a background that shows the page break
+- Add badges for payment methods available at checkout under the checkout button
+- Discount code visibility when a code is entered - use accents, bubble styling, etc, whatever looks good
+- Change X button to “Continue Shopping” which would close the cart drawer
+- Product Title Bold, variant Italicized to differentiate and make it clear what’s in their cart
+- More dark colors- all the white is blending together. Possibly black background with white text where it makes sense?
+- Discounted price should be our accent color (the red shade) to differentiate from slashed out price
+- Upsell products should have slashed through prices
+- The navidium widget shouldn't say ""Your order is protected"" and ""Checkout without protection"". Rather it should say ""Your shipping is protected"" and ""Checkout w/out shipping protection"" to alleviate customer concern regarding payment security etc.
+
+The catch here is that we'll be having some maintenance done on our theme starting tomorrow morning and will not be able to edit until likely Tuesday. Are these changes something your team is able to work through today by any chance? If you want to duplicate the current theme to work on it that's fine, then let us know when we can preview it that would be great. Appreciate anything you can do with the tight turnaround!
+
+‌
+
+One additional note to this- we want to explore urgency widgets after this but not as high of priority. Designing with that in mind would be helpful though."
+2025-09-25T12:54:40.298Z,Ismail Hossain,6800d488046a27c80487e85a,roam-adventure-co.myshopify.com,68d131776f1cc3dcfaa82808,Access Granted,"‌
+
+![image.png](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d53b8bec9c7695b036b5f2/download/image.png)
+
+[RoamAdventure Discount Thread .pdf](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d5144a90e8efead59ae4b8/download/RoamAdventure_Discount_Thread_.pdf ""‌"")"
+2025-09-25T10:53:18.521Z,Ismail Hossain,6800d488046a27c80487e85a,aeropress-coffee.myshopify.com,668f16fa240d30b742204bb5,Live,"still testing the cart theme, seeing a lag in the add to cart and product in cart
+
+[https://www.awesomescreenshot.com/video/44538905?key=98e22a40b8231052606622e19f4ab236](https://www.awesomescreenshot.com/video/44538905?key=98e22a40b8231052606622e19f4ab236 ""‌"")"
+2025-09-25T10:44:18.518Z,Ismail Hossain,6800d488046a27c80487e85a,rock-and-roses.myshopify.com,67adf376ab457f98b4a9d285,Live,"‌
+
+![image.png](https://trello.com/1/cards/67adf376ab457f98b4a9d285/attachments/68d51cd2a57e52607d233c9f/download/image.png)"
+2025-09-25T10:03:00.990Z,Ismail Hossain,6800d488046a27c80487e85a,rad-happy.myshopify.com,67cfc40489ae109c5b78a973,Live,Reported
+2025-09-25T10:02:50.020Z,Ismail Hossain,6800d488046a27c80487e85a,rowe-casa.myshopify.com,678ae7407818246e78854c65,Live,![image.png](https://trello.com/1/cards/678ae7407818246e78854c65/attachments/68d51319318de873d11fbed0/download/image.png)
+2025-09-25T05:53:36.511Z,Samiul Alim,65a11752f9822c63c9cde145,rad-happy.myshopify.com,67cfc40489ae109c5b78a973,Live,@ismailhossain64
+2025-09-25T05:53:30.819Z,Samiul Alim,65a11752f9822c63c9cde145,rad-happy.myshopify.com,67cfc40489ae109c5b78a973,Live,"Since there is no Dynamatic widget in checkout and the error occurs even when no Dynamatic discounted product is present, we can conclude that Dynamatic is not related to this issue."
+2025-09-25T05:27:25.160Z,Ismail Hossain,6800d488046a27c80487e85a,rad-happy.myshopify.com,67cfc40489ae109c5b78a973,Live,https://dynamatic.reamaze.com/conversations/hi-i-am-also-chatting-with-shopify-about-this-but-when-we-enter-discount-codes-at-checkout/perma?token=25c34647afad2#mid1630012773
+2025-09-25T05:24:23.497Z,Ismail Hossain,6800d488046a27c80487e85a,rad-happy.myshopify.com,67cfc40489ae109c5b78a973,Live,"Hi, I am also chatting with Shopify about this but when we enter discount codes at checkout, we're getting a ""Somethign went wrong"" error and can't complete the checkout. Dynamatic is the only app that interacts with checkout other than some shipping rules apps we've used for the past year so I wanted to see if you knew if this was a dynamatic issue or a shopify issue"
+2025-09-24T16:23:50.974Z,Ismail Hossain,6800d488046a27c80487e85a,roam-adventure-co.myshopify.com,68d131776f1cc3dcfaa82808,Access Granted,"![image.png](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d41adb052390669b759154/download/image.png)
+
+![image.png](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d41b100aead1c6e29a33a4/download/image.png)
+
+![image.png](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d41af99c03dab206b07cfc/download/image.png)"
+2025-09-24T16:18:56.794Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Live,"Can you paste in here exactly the time every change was made from first launch so I can review properly?And confirming we cannot A/B test this? Apologies if communicated already.
+
+\- Summary of all the changes on the theme is required"
+2025-09-24T16:15:16.461Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Live,"Details on the previous issue:
+
+![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68d41908abe064c426c9cd98/download/image.png)"
+2025-09-24T15:02:25.897Z,Ismail Hossain,6800d488046a27c80487e85a,derm-street.myshopify.com,66b3d383f43955d04a56cc52,Live,![image.png](https://trello.com/1/cards/66b3d383f43955d04a56cc52/attachments/68d407ed2023bd0a85a658a9/download/image.png)
+2025-09-24T15:01:39.437Z,Ismail Hossain,6800d488046a27c80487e85a,derm-street.myshopify.com,66b3d383f43955d04a56cc52,Live,"[https://dynamatic.reamaze.com/admin/conversations/plan-upgrade-request-dynamatic-personalized-upsells-7af67d1bc0c41241](https://dynamatic.reamaze.com/admin/conversations/plan-upgrade-request-dynamatic-personalized-upsells-7af67d1bc0c41241 ""‌"")"
+2025-09-24T14:38:18.371Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,"‌
+
+![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68d402437e316c4e2b73e10d/download/image.png)
+
+ [Dynamatic Setup for Jewelry Expo .pdf](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68d4024e421c6d9c11302c55/download/Dynamatic_Setup_for_Jewelry_Expo_.pdf ""‌"")"
+2025-09-24T12:21:28.537Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,![image.png](https://trello.com/1/cards/664b0e0d990265fd02b7139d/attachments/68d3e22178f510d33daba4f5/download/image.png)
+2025-09-24T12:14:09.308Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"Could i also request that we make ""CHECKOUT"" button - the full width and maybe a small link below for ""view cart"""
+2025-09-24T10:06:32.909Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,Send demo pdf to Merchant on existing widget setup.
+2025-09-24T09:59:14.154Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"Good morning Ishmael,
+
+Thank you for your reply.
+
+Great work so far on the cart - i am going to have a good play around with it and get back to you with anything we require.
+
+The cart certainly is much quicker than previously.
+
+There are some features i would like adding so i will once again, put together a word document for you to visualise what we would like.
+
+Appreciate your help on this one
+
+Requirements: [cart start.pptx](https://trello.com/1/cards/664b0e0d990265fd02b7139d/attachments/68d3c0e91b07876502fe8022/download/cart_start.pptx ""‌"")"
+2025-09-23T21:30:14.897Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,"[https://docs.google.com/document/d/1UvjaTE0S3K1s6pde1Um2dnBCdoDySHyGVcHHIB5yl64/edit?usp=sharing](https://docs.google.com/document/d/1UvjaTE0S3K1s6pde1Um2dnBCdoDySHyGVcHHIB5yl64/edit?usp=sharing ""‌"")
+
+Gemini generated custom widget requirement from the transcript-ed doc:
+
+**Engagement Ring Bundle Offer:**
+
+- **Logic:** When a customer purchases an engagement ring setting, they should be offered a free lab-grown center stone up to a certain category price, or a credit towards a more expensive lab-grown diamond, paying only the difference.
+- **Pricing:** The value of the free diamond would be based on the listed price of diamonds in the database. If a more expensive diamond is chosen, the customer pays the difference (e.g., if a free diamond is valued at $2,400 and a $3,400 diamond is chosen, the customer pays $1,000).
+- **Categories:** There would likely be five or six categories defining the value of the free diamond based on the setting's price. This logic would only apply to lab-grown diamonds, not natural ones.
+- **Placement:** The offer should be prominently displayed on the product page, ideally before adding the ring to the cart, to incentivize immediate purchase.
+- **Selection:** If the customer chooses the basic free diamond, the team will pick the diamond for them. If they want a larger or more expensive diamond, they should be able to select their own lab-grown diamond, and the logic should apply a discounted package price in the cart.
+
+- **Free Gift Selection Functionality:**
+  - **Logic:** Upon purchasing a certain item (e.g., a $5,000 bracelet), customers should be able to select a free gift from multiple predefined options.
+  - **Options:** The system should present two or three predefined gift items for the customer to choose from, rather than allowing them to pick from the entire inventory.
+  - **Action:** Once a customer selects a free gift, both the purchased item and the chosen free gift should be added to the cart, with the free gift's price set to zero.
+  - **Current Status:** Ronnie B confirmed that while ""buy one get one"" (BOGO) functionality exists, the option for customers to choose from multiple free gift selections is not currently available out of the box but could be developed."
+2025-09-23T17:57:47.417Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"‌
+
+Just curious, does dynamatic have plans of creating a countdown widget? Like this
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68d2df7af244f15ee3e0660f/download/image.png)"
+2025-09-23T17:08:14.086Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,"can you help me modify this so that the bg shadow is removed from the left ride buttons
+
+and the bg color is also removed from x button
+
+just keep it white arrows and white x
+
+keep it very minimal
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d2d25a39d1e4ad0dd0703e/download/image.png)
+
+this is how we do the arrows in other parts of the site - you cant really see it but if we make it white in the hello bar it will work
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d2d27fa97e978607164975/download/image.png)
+
+
+and now with hello bar we kill 2 birds
+
+do we need these widgets now?
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68d2d3f98e57147814e3d862/download/image.png)"
+2025-09-23T16:00:38.143Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Live,"The founder is flagging that he's seeing some traffic bypass ATC and go straight to checkout - want to make sure this isn't connected?
+Adding screenshots the founder provided. His observation of irregularities in ATC and checkout align with when we turned this on
+
+
+![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68d2c41ecec5128dc557db2f/download/image.png)
+
+![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68d2c40ec07dea3bb2d07400/download/image.png)
+
+![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68d2c40dcf15d381f7b9aa39/download/image.png)"
+2025-09-23T13:48:27.096Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"Hello,
+
+I hope this message finds you well. I wanted to inform you that we have completed the setup according to the document you shared with us. You can view the changes at the following URL: [https://cfabdb18z4iav2g8-26690322479.shopifypreview.com](https://cfabdb18z4iav2g8-26690322479.shopifypreview.com/ ""‌"")
+
+Please take a moment to review the modifications, and let us know if there are any additional customizations you would like us to implement. We are more than happy to make adjustments based on your feedback to ensure that the final result meets your expectations.
+
+
+
+[https://dynamatic.reamaze.com/admin/conversations/im-having-trouble-with-my-cart-showing-on-my-test-theme](https://dynamatic.reamaze.com/admin/conversations/im-having-trouble-with-my-cart-showing-on-my-test-theme ""‌"")"
+2025-09-23T13:27:25.419Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,6810ae881830b08bf2441097,Live,![image.png](https://trello.com/1/cards/6810ae881830b08bf2441097/attachments/68d2a03ad69ee94fc887555f/download/image.png)
+2025-09-23T13:02:42.281Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,![image.png](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68d29a6e9d6f79fb0c9d9bc1/download/image.png)
+2025-09-23T12:45:39.659Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,[1-WhatsApp-09-23-2025_06_44_PM.pdf](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68d2966c2957e1c4c51e8f90/download/1-WhatsApp-09-23-2025_06_44_PM.pdf) 
+2025-09-23T12:29:24.493Z,Ismail Hossain,6800d488046a27c80487e85a,derm-street.myshopify.com,66b3d383f43955d04a56cc52,Live,"[https://ecompropeller.reamaze.com/admin/conversations/plan-upgrade-request-dynamatic-personalized-upsells-7af67d1bc0c41241](https://ecompropeller.reamaze.com/admin/conversations/plan-upgrade-request-dynamatic-personalized-upsells-7af67d1bc0c41241 ""‌"")
+
+
+![image.png](https://trello.com/1/cards/66b3d383f43955d04a56cc52/attachments/68d292a0ba0e3d8a54598113/download/image.png)"
+2025-09-23T11:55:08.955Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Live,![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68d28a941573d1c2a1e83d0a/download/image.png)
+2025-09-23T11:07:14.012Z,Ismail Hossain,6800d488046a27c80487e85a,roam-adventure-co.myshopify.com,68d131776f1cc3dcfaa82808,Access Granted,![image.png](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d27f5ea50c53e83b0e2c3e/download/image.png)
+2025-09-23T10:46:16.551Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,"‌
+
+Hi team - an insight I came across in PageInsights was for long cache lifetime - is this something you would recommend to update? It's the top impact on both desktop and mobile[/dynamatic-cart/dynamatic-cart-prd.js](https://d10pwglna6up6p.cloudfront.net/dynamatic-cart/dynamatic-cart-prd.js ""‌"")([d10pwglna6up6p.cloudfront.net](http://d10pwglna6up6p.cloudfront.net/ ""‌""))
+
+![image.png](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68d27a691909d0ee5ed03bb7/download/image.png)"
+2025-09-23T10:40:02.881Z,Ismail Hossain,6800d488046a27c80487e85a,busy-baby-mat.myshopify.com,67a2ea64a6101516dfe611c2,Live,![image.png](https://trello.com/1/cards/67a2ea64a6101516dfe611c2/attachments/68d278ff29e4e5d0116ec1ed/download/image.png)
+2025-09-23T10:04:06.199Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68d270925bb0c9cd6eb920f5/download/image.png)
+2025-09-23T09:56:22.499Z,Ismail Hossain,6800d488046a27c80487e85a,busy-baby-mat.myshopify.com,67a2ea64a6101516dfe611c2,Live,"when you can, please take a look at our 50% off backpack and cell stand upsell at checkout (image attached). I turned it off because we're having a 25% off Sale that includes those items and didn't want want their price to drop so low. However, after I turned off the displays, I checked the checkout and it still showed up AND the price was not affected - should have totaled to be 75% off in cart, only calculated to the 50% off price. Not sure if that's an issue. The main thing for now is for it to not display at all during our sale, ends 9/30, then turn it back on when I need. Let me know how to do this.
+
+![image.png](https://trello.com/1/cards/67a2ea64a6101516dfe611c2/attachments/68d26ebef96d3ae107b96a6b/download/image.png)"
+2025-09-23T06:36:30.693Z,Samiul Alim,65a11752f9822c63c9cde145,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,@ismailhossain64
+2025-09-23T06:36:23.355Z,Samiul Alim,65a11752f9822c63c9cde145,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"We’ve checked the product page at [link] and found that there isn’t a _Midnight Blue_ variant in Shopify Admin, but there is an _Ensign Blue_ variant that is available for sale. That’s why it’s possible to add it to the cart when clicked.
+
+We also confirmed that the variant string in the URL is updating correctly when different swatches are selected. Additionally, our widget is designed to be fully independent — it doesn’t rely on or modify theme code or functionality to work properly. We’ve verified that it does not show out-of-stock variants as available for adding to cart.
+
+If you notice any exceptions, could you please share a screenshot or screen recording? That would help us identify and resolve the issue more efficiently."
+2025-09-22T18:54:50.126Z,Ismail Hossain,6800d488046a27c80487e85a,roam-adventure-co.myshopify.com,68d131776f1cc3dcfaa82808,Access Granted,"[Ecom Propeller Mail - Re\_ Invitation\_ Kaycee Landsaw and Navidium App by Ecom Propeller \@ Thu Sep 18, 2025 12pm - 12_30pm (MDT) (kaycee@roamadventureco.com).pdf](https://trello.com/1/cards/68d131776f1cc3dcfaa82808/attachments/68d19b6e202bcaaa49251635/download/Ecom_Propeller_Mail_-_Re__Invitation__Kaycee_Landsaw_and_Navidium_App_by_Ecom_Propeller_%40_Thu_Sep_18%2C_2025_12pm_-_12_30pm_(MDT)_(kaycee%40roamadventureco.com).pdf ""‌"")"
+2025-09-22T18:34:17.485Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"‌
+
+is it possible to move it down further?
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68d19697835991f9e7881f78/download/image.png)"
+2025-09-22T14:44:56.092Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68d160e2d410d138e49f4bc4/download/image.png)
+2025-09-22T14:29:01.537Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"I hope all is well. After you deployed this change we are finding a new bug popping up that is the Product Page code is not taking into account an item’s stock level.
+
+Example go here:
+[Compact Expandable Cabin Spinner | Maxlite 5 by Travelpro – Travelpro® Europe](https://eu.travelpro.com/products/maxlite-r-5-compact-carry-on-expandable-spinner ""‌"")
+
+This item in Midnight blue is actually not in stock but it is allowing the user to add to cart. I think this has to do with the fact that when I switch swatches it is not changing the variant in the URL string. I am leaving this in the live theme now for you to see in the hopes you maybe have a quick fix?"
+2025-09-22T13:39:54.498Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,![image.png](https://trello.com/1/cards/67505d253f093a932621a9b8/attachments/68d151a68408213862d42ce6/download/image.png)
+2025-09-22T13:16:28.015Z,Ismail Hossain,6800d488046a27c80487e85a,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,![image.png](https://trello.com/1/cards/6721de4bdc1b3f451de7fbbc/attachments/68d14c27c11a521fcb139b7a/download/image.png)
+2025-09-22T12:17:41.490Z,Ismail Hossain,6800d488046a27c80487e85a,coalition-snow.myshopify.com,68cc3a1928f80af22902546f,Access Granted,![image.png](https://trello.com/1/cards/68cc3a1928f80af22902546f/attachments/68d13e6215af22b4a7a13af0/download/image.png)
+2025-09-22T11:29:09.705Z,Ismail Hossain,6800d488046a27c80487e85a,testingforen.myshopify.com,68cacafde28e852c5eb03be2,Access Granted,![image.png](https://trello.com/1/cards/68cacafde28e852c5eb03be2/attachments/68d13301ff4607467e105d59/download/image.png)
+2025-09-22T11:24:18.910Z,Ismail Hossain,6800d488046a27c80487e85a,testingforen.myshopify.com,68cacafde28e852c5eb03be2,Access Granted,"Theme URL: [https://essentiallynatural.co.za/?\_ab=0&\_fd=0&\_sc=1&preview\_theme_id=148480262312](https://essentiallynatural.co.za/?_ab=0&_fd=0&_sc=1&preview_theme_id=148480262312 ""‌"")
+
+Checkout:
+[https://essentiallynatural.co.za/checkouts/cn/hWN3GilfbfOGLDN3fNbHaMny/en-za?adminUrl=admin.shopify.com&cart_link_id=dcSGnqHe&editedAt=2025-09-19T06%3A26%3A49Z&isPublished=false&profileName=%5BDynamatic%5D+Checkout+1&profile_preview_token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0aW5nZm9yZW4ubXlzaG9waWZ5LmNvbSIsImF1ZCI6InRlc3Rpbmdmb3Jlbi5teXNob3BpZnkuY29tIiwibmJmIjoxNzU4NTQwMzAzLCJjaGVja291dF9wcm9maWxlX2lkIjo0MjczOTYzMTc2LCJjaGVja291dF9wcm9maWxlX3B1Ymxpc2hlZCI6ZmFsc2UsInVzZXJfaWQiOjk1NDkyNTM4NTM2LCJleHAiOjE3NTg1NDM5MDN9.mp8BKwcpxzynfY_RoZ664A8iVHaCdAKPqsu2iv1gLIk](https://essentiallynatural.co.za/checkouts/cn/hWN3GilfbfOGLDN3fNbHaMny/en-za?adminUrl=admin.shopify.com&cart_link_id=dcSGnqHe&editedAt=2025-09-19T06%3A26%3A49Z&isPublished=false&profileName=%5BDynamatic%5D+Checkout+1&profile_preview_token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0aW5nZm9yZW4ubXlzaG9waWZ5LmNvbSIsImF1ZCI6InRlc3Rpbmdmb3Jlbi5teXNob3BpZnkuY29tIiwibmJmIjoxNzU4NTQwMzAzLCJjaGVja291dF9wcm9maWxlX2lkIjo0MjczOTYzMTc2LCJjaGVja291dF9wcm9maWxlX3B1Ymxpc2hlZCI6ZmFsc2UsInVzZXJfaWQiOjk1NDkyNTM4NTM2LCJleHAiOjE3NTg1NDM5MDN9.mp8BKwcpxzynfY_RoZ664A8iVHaCdAKPqsu2iv1gLIk ""smartCard-inline"")"
+2025-09-22T11:07:00.536Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,![image.png](https://trello.com/1/cards/67505d253f093a932621a9b8/attachments/68d12dcab0f0ccd0b6c7ce2b/download/image.png)
+2025-09-22T11:05:16.082Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"Hi there, I see there is now a variant selector but it shows all variants when only 3 should be offered:
+Selections:
+[https://gyazo.com/66fc64eb1f18658ad37c99600b0c41ab](https://gyazo.com/66fc64eb1f18658ad37c99600b0c41ab ""‌"")
+
+IN Cart display: [https://gyazo.com/a62896cf6ef8b6382a06a5853e0269b3](https://gyazo.com/a62896cf6ef8b6382a06a5853e0269b3 ""‌"")"
+2025-09-20T05:26:34.458Z,Samiul Alim,65a11752f9822c63c9cde145,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"[https://ecompropeller.slack.com/archives/C090NGSGUUT/p1758345817540089?thread_ts=1757922683.958979&cid=C090NGSGUUT](https://ecompropeller.slack.com/archives/C090NGSGUUT/p1758345817540089?thread_ts=1757922683.958979&cid=C090NGSGUUT ""‌"")"
+2025-09-19T15:22:42.474Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68cd753dd4a67b69f62062f7/download/image.png)
+2025-09-19T13:57:14.570Z,Ismail Hossain,6800d488046a27c80487e85a,coalition-snow.myshopify.com,68cc3a1928f80af22902546f,Access Granted,"
+
+
+![image.png](https://trello.com/1/cards/68cc3a1928f80af22902546f/attachments/68cd610169624981d909695e/download/image.png)
+
+![image.png](https://trello.com/1/cards/68cc3a1928f80af22902546f/attachments/68cd5803c20e304b18922672/download/image.png)"
+2025-09-19T13:14:37.031Z,Ismail Hossain,6800d488046a27c80487e85a,rowe-casa.myshopify.com,678ae7407818246e78854c65,Live,![image.png](https://trello.com/1/cards/678ae7407818246e78854c65/attachments/68cd5739d9d4d3196381185b/download/image.png)
+2025-09-19T11:59:17.055Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,"Here's a preview link: [https://jewelryexpo.com/?\_ab=0&\_fd=0&\_sc=1&preview\_theme_id=180746584355](https://jewelryexpo.com/?_ab=0&_fd=0&_sc=1&preview_theme_id=180746584355 ""‌"")
+It's installed in this theme: [DYNAMATIC] jewelryexpo-theme/main"
+2025-09-19T11:58:41.313Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68cd456d7ec54b1dc03dc8fc/download/image.png)
+2025-09-19T11:51:12.181Z,Ismail Hossain,6800d488046a27c80487e85a,testingforen.myshopify.com,68cacafde28e852c5eb03be2,Access Granted,Reported
+2025-09-19T11:36:42.842Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,6810ae881830b08bf2441097,Live,"since the product collection is so small, can we change this from showing collection blocks to showing the below products:
+
+- DudeRobe (with add to cart button)
+- DudeShorts (same)
+- DudePants (same)
+- DudeHoodie (same)
+
+  ![image.png](https://trello.com/1/cards/6810ae881830b08bf2441097/attachments/68cd4048883cb1c2a1a123c9/download/image.png)"
+2025-09-19T11:32:24.905Z,Ismail Hossain,6800d488046a27c80487e85a,vetchy.myshopify.com,67e6be317392fb216956c933,Live,"[https://dynamatic.reamaze.com/admin/conversations/hi-team-i-have-just-one-simple-question-for-now](https://dynamatic.reamaze.com/admin/conversations/hi-team-i-have-just-one-simple-question-for-now ""‌"")
+
+[https://dynamatic.reamaze.com/conversations/hi-team-i-have-just-one-simple-question-for-now/perma?token=74305354f04b0#mid1621658297](https://dynamatic.reamaze.com/conversations/hi-team-i-have-just-one-simple-question-for-now/perma?token=74305354f04b0#mid1621658297 ""‌"")"
+2025-09-19T11:32:22.159Z,Ismail Hossain,6800d488046a27c80487e85a,vetchy.myshopify.com,67e6be317392fb216956c933,Live,"Hi Ishmael,
+
+here's the Theme Preview link (expires in 2 days):
+[https://l531oxs33e5dl2eo-15638298672.shopifypreview.com](https://l531oxs33e5dl2eo-15638298672.shopifypreview.com/ ""‌"")
+
+About the Campaign request, I think I am missing something.
+
+I used Campaigns to add widgets to PDP and Checkout, but I didn't create a
+campaign for the Smart Cart.
+This is what I did for Smart Cart:
+
+1. Created new widget ""Vetchy Tote Bag"" of type Free Gift
+2. Enabled Dynamatic Cart Themes app embeds in Theme Customizer
+3. Created a custom Cart Theme named Vetchy Static Cart
+4. Drag & Drop the Vetchy Tote Bag widget in the cart
+5. Published this theme live
+
+and I see it visible.
+
+Let me know if I missed any important details,
+
+Thank you
+
+Best,
+
+![image.png](https://trello.com/1/cards/67e6be317392fb216956c933/attachments/68cd3385b64f538c5274ee76/download/image.png)"
+2025-09-19T11:15:30.251Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,![image.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68cd3b4a7eae42e659be3641/download/image.png)
+2025-09-19T11:13:18.675Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,![image.png](https://trello.com/1/cards/664b0e0d990265fd02b7139d/attachments/68cd3acb5ba5d63c4d8ae214/download/image.png)
+2025-09-19T11:12:59.327Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"[https://docs.google.com/document/d/1lFhlo8eRMKqOKG4BqTEYA5NI5HpZLrqzUujD8sA9vK8/edit?usp=sharing](https://docs.google.com/document/d/1lFhlo8eRMKqOKG4BqTEYA5NI5HpZLrqzUujD8sA9vK8/edit?usp=sharing ""smartCard-inline"")"
+2025-09-19T10:40:56.331Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,6810ae881830b08bf2441097,Live,![image.png](https://trello.com/1/cards/6810ae881830b08bf2441097/attachments/68cd3333cba3f53d5f96a687/download/image.png)
+2025-09-19T10:32:40.305Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"[https://dynamatic.reamaze.com/admin/conversations/im-having-trouble-with-my-cart-showing-on-my-test-theme](https://dynamatic.reamaze.com/admin/conversations/im-having-trouble-with-my-cart-showing-on-my-test-theme ""‌"")"
+2025-09-19T10:15:24.306Z,Ismail Hossain,6800d488046a27c80487e85a,vetchy.myshopify.com,67e6be317392fb216956c933,Live,"Hi Ishamel,
+
+Thanks for your reply. I've solved it, and I am continuing the
+configuration.
+
+I have a question, is there any cache? Or any trick to refresh the widget
+content?
+
+I am asking because I made some changes to the Widget text, and the first
+time I did it, it took the text.
+[image: image.png]
+
+Then I changed the text and at the moment in the system we have this
+[image: a04a2ec0-fa99-4742-a392-dff00f3996f2.png]
+
+But when I preview the theme, it still shows the old text, even after
+waiting 1h or more.
+
+Thank you in advance,
+
+![image.png](https://trello.com/1/cards/67e6be317392fb216956c933/attachments/68cd2d2b22b48a829f3619be/download/image.png)
+
+![image.png](https://trello.com/1/cards/67e6be317392fb216956c933/attachments/68cd2d237f8a90dc85873e38/download/image.png)
+
+
+
+
+---
+
+![image.png](https://trello.com/1/cards/67e6be317392fb216956c933/attachments/68cd2d38fe73a0d0f3698de1/download/image.png)"
+2025-09-19T10:10:03.189Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,![image.png](https://trello.com/1/cards/664b0e0d990265fd02b7139d/attachments/68cd2bf71aac9a3e6d8e6530/download/image.png)
+2025-09-19T08:52:40.383Z,Rumi,65640aabb59bec9ff96b60a1,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"@ismailhossain64
+
+‌
+
+The changes hadn’t been saved earlier — sorry about the inconvenience. Please check again now; adding product without any option should no longer redirect to the cart page.
+
+P.S. We also noticed that **Rebuy Smart Cart** is still loading in the background. Running two carts at the same time can sometimes cause unexpected behavior and also hampers your website performance. If you’re actively using a specific Rebuy feature, let us know and we’ll be happy to replicate it within Dynamatic so everything runs smoothly. Looking forward to your thoughts!"
+2025-09-19T06:56:36.874Z,Rumi,65640aabb59bec9ff96b60a1,testingforen.myshopify.com,68cacafde28e852c5eb03be2,Access Granted,"@ismailhossain64
+
+Theme Name: [DYNAMATIC] Pages updates - live
+
+Theme Url: `https://5vigrsmahkcwmhxr-8131117152.shopifypreview.com`
+
+Checkout Preview URL: [https://testingforen.myshopify.com/cart/19254278619232:1?profile_preview_token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0aW5nZm9yZW4ubXlzaG9waWZ5LmNvbSIsImF1ZCI6InRlc3Rpbmdmb3Jlbi5teXNob3BpZnkuY29tIiwibmJmIjoxNzU4MjY0ODkwLCJjaGVja291dF9wcm9maWxlX2lkIjo0MjczOTYzMTc2LCJjaGVja291dF9wcm9maWxlX3B1Ymxpc2hlZCI6ZmFsc2UsInVzZXJfaWQiOjk1NDQwMzA2MzQ0LCJleHAiOjE3NTgyNjg0OTB9.Pfr5G7xibCfqrQCbT-sZvtzITgA_bnbFh5mifvwX3g4&profileName=%5BDynamatic%5D+Checkout+1&isPublished=false&adminUrl=admin.shopify.com&editedAt=2025-09-19T06%3A26%3A49Z](https://testingforen.myshopify.com/cart/19254278619232:1?profile_preview_token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZXN0aW5nZm9yZW4ubXlzaG9waWZ5LmNvbSIsImF1ZCI6InRlc3Rpbmdmb3Jlbi5teXNob3BpZnkuY29tIiwibmJmIjoxNzU4MjY0ODkwLCJjaGVja291dF9wcm9maWxlX2lkIjo0MjczOTYzMTc2LCJjaGVja291dF9wcm9maWxlX3B1Ymxpc2hlZCI6ZmFsc2UsInVzZXJfaWQiOjk1NDQwMzA2MzQ0LCJleHAiOjE3NTgyNjg0OTB9.Pfr5G7xibCfqrQCbT-sZvtzITgA_bnbFh5mifvwX3g4&profileName=%5BDynamatic%5D+Checkout+1&isPublished=false&adminUrl=admin.shopify.com&editedAt=2025-09-19T06%3A26%3A49Z ""smartCard-inline"")
+
+We replaced your cart to Dynamatic Cart. We added a “Add to Cart” upsell widget and replaced your Frequently Bought Together widget on product page with our version.
+
+We also replaced the Checkout Upsell you previously had with ours. There are a tons of more stuffs that you can do with Dynamatics. Visit our dashboard and explore. If you need any help, we are always here!"
+2025-09-18T19:12:07.792Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Here is the response from the app team:
+
+‌
+
+Redirecting to /cart page when no add-on is selected
+This was not caused by us. The theme settings were configured to redirect to the cart page. We updated that setting to “Dropdown,” and now the redirection no longer happens. So their statement that “redirect flow is still managed by your cart drawer app” is not correct.
+
+‌
+
+For this issue, after checking, I see that when adding the Product to cart without any add-on options > the page is still re-directing to Homepage.
+So for this issue, could you please help me to contact the Cart App to check again please?"
+2025-09-18T18:09:02.551Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68cc4ab8ea35aa747655375b/download/image.png)
+2025-09-18T17:34:31.364Z,Ismail Hossain,6800d488046a27c80487e85a,the-game-caps.myshopify.com,6858d1d13b7e0adea9adb664,Live,![image.png](https://trello.com/1/cards/6858d1d13b7e0adea9adb664/attachments/68cc42a31d31ce46f06aebf3/download/image.png)
+2025-09-18T17:31:04.554Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: tradlands.myshopify.com,68c04db7f288159b3470da4b,Tickets,Updates on main card
+2025-09-18T17:27:38.486Z,Ismail Hossain,6800d488046a27c80487e85a,tradlands.myshopify.com,67131864b9a338538eba119d,Live,"I've attempted to place 2 orders with the different combination but not getting any popup to happen. See video: [https://share.cleanshot.com/7yKVRVbb](https://share.cleanshot.com/7yKVRVbb ""‌"")Can you assist further please?"
+2025-09-18T17:21:38.717Z,Ismail Hossain,6800d488046a27c80487e85a,rowe-casa.myshopify.com,678ae7407818246e78854c65,Live,"Skip the line issue: [https://ecompropeller.slack.com/archives/C07K7V50WB0/p1758205426710339](https://ecompropeller.slack.com/archives/C07K7V50WB0/p1758205426710339 ""smartCard-inline"")
+
+![image.png](https://trello.com/1/cards/678ae7407818246e78854c65/attachments/68cc3f8490fcbd035455424c/download/image.png)"
+2025-09-18T17:19:48.586Z,Ismail Hossain,6800d488046a27c80487e85a,rowe-casa.myshopify.com,678ae7407818246e78854c65,Live,"skip the line with tiered pricing
+
+![image.png](https://trello.com/1/cards/678ae7407818246e78854c65/attachments/68cc3f2471e0208ac2a613b0/download/image.png)"
+2025-09-18T17:00:17.312Z,Ismail Hossain,6800d488046a27c80487e85a,coalition-snow.myshopify.com,68cc3a1928f80af22902546f,Access Granted,![image.png](https://trello.com/1/cards/68cc3a1928f80af22902546f/attachments/68cc3a9ba656fb33850517e6/download/image.png)
+2025-09-18T16:58:20.089Z,Ismail Hossain,6800d488046a27c80487e85a,coalition-snow.myshopify.com,68cc3a1928f80af22902546f,Access Granted,![image.png](https://trello.com/1/cards/68cc3a1928f80af22902546f/attachments/68cc3a288b940debb6b61f86/download/image.png)
+2025-09-18T16:42:08.961Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"[https://admin.shopify.com/store/drifiresystem/products/8119090872493](https://admin.shopify.com/store/drifiresystem/products/8119090872493 ""‌"") - Its this product
+
+Product is not live because it disrupts the live store- We may have to find alternative way for this"
+2025-09-18T13:18:29.042Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68cc065470f9b21f410377a9/download/image.png)
+2025-09-18T13:10:35.110Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"‌
+
+![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68cc04c0071e5daeb8e55717/download/image.png)"
+2025-09-18T12:59:46.043Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Reported
+
+![image.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68cc023b0194adbe9874ca24/download/image.png)"
+2025-09-18T12:43:28.406Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"Investigation on hold due to product being archived, reached out to merchant asking for assistance!
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68cbfe3bf7741e0668c914ed/download/image.png)"
+2025-09-18T12:17:08.889Z,Rumi,65640aabb59bec9ff96b60a1,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"@ismailhossain64
+
+Hi Brian,
+
+I have to admit it’s a bit frustrating to keep seeing automated or generic responses from them.
+
+In their last message, they said: _“After removing the redirect code from your cart app, the cart drawer now works properly.”_ That’s misleading. As we explained in our earlier note, we identified exactly where the issue was, suggested the solution, and now we can see that they’ve implemented our recommendation. Yet they are still attributing the fix to “the cart app.” That simply isn’t accurate.
+
+Now, regarding the new issues:
+
+- **Redirecting to** `/cart` **page when no add-on is selected**
+  This was not caused by us. The theme settings were configured to redirect to the cart page. We updated that setting to “Dropdown,” and now the redirection no longer happens. So their statement that _“redirect flow is still managed by your cart drawer app”_ isn’t correct.
+  ![CleanShot\_2025-09-18\_at\_17.35.56.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68cbeea8858e4feb405b62e8/download/CleanShot_2025-09-18_at_17.35.56.png)
+- **Price mismatch issue**
+  Here, we’re not sure what level of support they expect from us. Our cart simply displays whatever Shopify provides through the `/cart.js` script. We don’t modify this data in any way. From what we can see, the product option app is modifying the main item’s price by summing the options and attaching that to the cart drawer. However, when the quantity is increased, their app isn’t recalculating the sum correctly. This is entirely on their side — they need to ensure their “sum” logic runs again when quantity changes to keep pricing consistent."
+2025-09-18T11:43:24.981Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,"‌
+
+![image.png](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68cbf0556171f363fb6d4b77/download/image.png)"
+2025-09-18T10:21:23.399Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"This is a Swedish customer who is unable to delete items from the slide cart.
+
+‌
+
+[IMG_6923 (1).mov](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68cbdd16cd22a8e33596dd7c/download/IMG_6923_(1).mov ""‌"")"
+2025-09-18T10:19:23.683Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"‌
+
+Regarding the Buy X, Get Y Free widget, is there any way to do Buy X+Y, Get Z? Effectively we’d like to bundle certain products but instead of offering a discount, we’d like to try offering a free item instead – we’d be very keen on testing this approach to see if it works.
+
+‌
+
+Regarding the order number, thank you for the clarification – from the description of the app, when discussing the number of orders, I assumed it was the number of orders coming through the app, not Shopify orders in total.
+
+‌
+
+At the moment, we have budgeted only for the BASIC account – can we discuss remaining on this plan for the time being? We can assist with reviews or case studies, as we’re open to testing more and more features."
+2025-09-18T10:10:04.726Z,Ismail Hossain,6800d488046a27c80487e85a,peak-health-distribution-ltd.myshopify.com,664b0e0d990265fd02b7139d,Access Granted,"I'm having trouble with my cart showing on my test theme
+theme is called Dynamatic"
+2025-09-18T06:41:29.327Z,Rumi,65640aabb59bec9ff96b60a1,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"Issue seems to be resolved yesterday and working as expected.
+
+![CleanShot\_2025-09-18\_at\_12.41.08.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68cba9964611fcef00808f7d/download/CleanShot_2025-09-18_at_12.41.08.png)"
+2025-09-17T19:15:37.928Z,Ismail Hossain,6800d488046a27c80487e85a,the-game-caps.myshopify.com,6858d1d13b7e0adea9adb664,Live,"# [http://thegamecaps.com](http://thegamecaps.com ""smartCard-inline"")  - September 18
+
+‌
+
+[**VIEW RECORDING - 34 mins (No highlights)**](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai ""‌"")
+
+## Meeting Purpose
+
+[Discuss and explore potential improvements to The Game Caps e-commerce store using Dynamatic features.](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=0.0 ""‌"")
+
+## Key Takeaways
+
+- [Identified issue with leaked coupon codes causing revenue loss; proposed solution using Redirect Platform](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=468.0 ""‌"")
+- [Suggested cross-promoting products from the same school on product pages to increase average order value](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1086.0 ""‌"")
+- [Discussed implementing post-purchase upsells and checkout improvements to boost conversions](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1161.0 ""‌"")
+- [Agreed to set up Slack communication for better collaboration on future promotions and site enhancements](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1800.0 ""‌"")
+
+## Topics
+
+### Current Store Performance and Challenges
+
+- [Average order value: $45-$50, typically 2 caps or cap + shirt/sweater](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=247.0 ""‌"")
+- [Cap prices: $30-$36](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=271.0 ""‌"")
+- [Traffic sources: podcast advertising, Instagram Q&As, Google/Meta ads, events](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=329.0 ""‌"")
+- [Issue with coupon code leakage (e.g., ""LOCKEDON"") causing unintended discounts](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=394.0 ""‌"")
+
+### Redirect Platform Solution
+
+- [Creates unique URLs (e.g., thegamecaps.com/lockedon) instead of coupon codes](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=763.0 ""‌"")
+- [Automatically applies discounts without leakable codes](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=763.0 ""‌"")
+- [Allows for custom landing pages and targeted messaging](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=763.0 ""‌"")
+- [Provides basic analytics on redirect performance](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=992.0 ""‌"")
+
+### Cross-Promotion and Upselling Strategies
+
+- [Suggested adding a carousel of related school items on product pages](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1086.0 ""‌"")
+- [Demonstrated setup process using Dynamatic's product feeds and widgets](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1137.0 ""‌"")
+- [Discussed potential for bundling offers (e.g., ""buy a second cap, get one free"")](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1900.0 ""‌"")
+
+### Checkout and Post-Purchase Improvements
+
+- [Mentioned capability to replace current Aftersell functionalities](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1848.0 ""‌"")
+- [Suggested exploring additional checkout enhancements](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1880.0 ""‌"")
+
+### Analytics and Reporting
+
+- [Noted Dynamatic's conservative approach to attribution](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1932.0 ""‌"")
+- [Emphasized potential underreporting rather than inflation of impact](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1932.0 ""‌"")
+
+### Communication and Collaboration
+
+- [Agreed to set up Slack channel for improved team communication](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1960.0 ""‌"")
+- [Discussed potential for dynamic homepage personalization based on user's university affiliation](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1984.0 ""‌"")
+
+## Next Steps
+
+- [Marc to send Slack invite to William for team collaboration](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=2013.0 ""‌"")
+- [Explore implementation of Redirect Platform for podcast promotions](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=468.0 ""‌"")
+- [Consider adding cross-promotion carousels on product pages](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1086.0 ""‌"")
+- [Investigate potential checkout and post-purchase upsell opportunities](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1161.0 ""‌"")
+- [Evaluate current Aftersell features for potential replacement with Dynamatic](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1848.0 ""‌"")
+- [Brainstorm ideas for dynamic site personalization based on user's university affiliation](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai?tab=summary&timestamp=1984.0 ""‌"")
+
+
+
+[https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai](https://fathom.video/share/P8prqpVywHWSXBN4X6UAKmZJkKxsCXai ""smartCard-inline"")"
+2025-09-17T17:38:00.089Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,"[https://ecompropeller.slack.com/archives/C09C9PNTLLU/p1758123025768979](https://ecompropeller.slack.com/archives/C09C9PNTLLU/p1758123025768979 ""smartCard-inline"")"
+2025-09-17T17:32:57.616Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,Live,"‌
+
+can we dynamically engineer this rule so that instead of us manually specificying every collar/leash combo - we can do if there is collar or leash -> show customer the collar/leash set for 10% off of it
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68caf0d4a181b45f5324ccf4/download/image.png)
+
+‌
+
+im guessing we use collections sets
+
+but not sure how to completely configure it"
+2025-09-17T16:51:15.866Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"Hello, we are wondering if the Dynamatic team could assist with an issue with the Shop Pay payment installment display. It is currently showing the amount payments would be if the product was full price, not the promotional price of $99.98. From what I can tell, this will involve editing the code of the shop pay widget. Is this something the team can help with? Our promotional pricing is displayed due to code changes we made in the price section, and it is based off the metaobject we have selected to tell it what discount to apply.
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68cae6ff3e4d2674bc57ad6e/download/image.png)"
+2025-09-17T16:12:02.542Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,[2025-09-17_12-06-56.gif](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68caddc6bea2394870d5e552/download/2025-09-17_12-06-56.gif) 
+2025-09-17T16:11:10.036Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,"Not sure if this is user error, but its not saving when I try to click it
+
+![image.png](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68cadd96db2d672077aade44/download/image.png)"
+2025-09-17T15:39:54.092Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"Resolved and reported
+
+![image.png](https://trello.com/1/cards/67505d253f093a932621a9b8/attachments/68cad642009856c53c2e43b4/download/image.png)"
+2025-09-17T15:11:37.876Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68cacfa3d8c59efd3079a6c4/download/image.png)
+2025-09-17T14:40:18.172Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"Hi Ishmael,
+
+‌
+
+Nice to meet you, I know you work with Eugen on our team. We have an issue we have spotted with the slide cart component on our site which I have recorded in a video for you:
+[https://www.loom.com/share/39260290d66749219998c0c77e00a88c?sid=494265fe-325a-4004-9846-ea31c0d641bf](https://www.loom.com/share/39260290d66749219998c0c77e00a88c?sid=494265fe-325a-4004-9846-ea31c0d641bf ""smartCard-inline"")
+
+This is the URL I reference:
+[Maxlite® 5 Slim Expandable Cabin Soft Shell Spinner 55cm (55 x 40 x 20 cm) – Travelpro® Europe](https://eu.travelpro.com/products/maxlite-5-55-expandable-carry-on-spinner ""‌"")
+
+For an additional example of this drop down functioning correctly, please find our US page here:
+[21"" Expandable Carry-On Spinner Suitcase | Platinum Elite by Travelpro](https://travelpro.com/products/platinum%C2%AE-elite-21-expandable-carry-on-spinner?variant=19629281706082 ""‌"")
+
+Thanks,
+Mark"
+2025-09-17T12:43:48.077Z,Ismail Hossain,6800d488046a27c80487e85a,tzs31b-ri.myshopify.com,68c40ae78a37d2c7642a2762,Access Granted,"Cart setup done by @jahidhowlader1
+
+Theme: `https://cden4jrhtttf7zoq-72355905774.shopifypreview.com`
+
+[Theme](https://cden4jrhtttf7zoq-72355905774.shopifypreview.com￼￼Theme ""‌"") name: [DYNAMATIC] QOTD Restock 1/30/25"
+2025-09-17T12:30:16.704Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,@ismailhossain64 These 2 issues has been fixed let the merchant know and ask if the test cases are ready or not
+2025-09-17T12:29:37.389Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,The limit is now fully editable. Now it will allow user to input numbers below limit but when user removes focus from the text input field then it will be automatically updated with valid number
+2025-09-17T11:56:49.358Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Basically, the cart still redirects if no options are added when a product is added from the product page.
+
+Hi Brian,
+
+This is Vivian from AvisPlus Support.
+
+Here’s the latest update from our dev team: After removing the redirect code from your cart app, the cart drawer now works properly (increasing product quantity no longer redirects to the cart page).
+
+However, there are still two issues remaining:
+
+1. If no add-on option is selected (no add charge option), the redirect flow is still managed by your cart drawer app. Please contact their support team to adjust this part.
+
+1. When increasing the product quantity, the price is not updated correctly — it shows a mismatch instead of calculating the right total. To fix this, the cart requires a reload code. Could you please help us ask with the code from your cart drawer app so our dev team can review and adjust it for you?
+
+Thank you very much for your cooperation. Please let me know once you get the code, and we’ll be glad to assist further.
+
+Best regards,
+
+Vivian | AvisPlus Customer Support"
+2025-09-17T11:55:51.941Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,![image.png](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68caa119a5dde5d183e54574/download/image.png)
+2025-09-17T11:28:45.761Z,Ismail Hossain,6800d488046a27c80487e85a,esprit-international-limited.myshopify.com,67e3daabadd8dbddec320471,Waiting on Merchant,![image.png](https://trello.com/1/cards/67e3daabadd8dbddec320471/attachments/68ca9b6a4c5461e19c3bc17c/download/image.png)
+2025-09-17T11:16:46.832Z,Ismail Hossain,6800d488046a27c80487e85a,footprint-usa.myshopify.com,6721dd0d1a6daca0a4859025,Waiting on Merchant,![image.png](https://trello.com/1/cards/6721dd0d1a6daca0a4859025/attachments/68ca989b78d0d7f686624c0a/download/image.png)
+2025-09-17T11:15:50.503Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"This issue is caused by the checkout limit of the store
+
+![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68ca985083884b9f1e84f072/download/image.png)
+
+![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68ca981cf3551131affcac3d/download/image.png)"
+2025-09-17T09:48:16.028Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Live,"This is great to hear - thank you!
+
+1. Any chance the order of the upsell products could be moved around dynamically? (like a drag & drop, similar to when you're manually merchandising a collection within Shopify. I want to be able to adjust the ranking from time to time & it's pretty tedious removing everything & re-adding it in a specific order)
+2. The slideout doesn't seem to be working 100% of the time. For example, this product should be getting picked up by a few of the rules listed within the ""Rules Feed for Accessories"" I have set up, but nothing is showing up. Can you take a peek? [https://deltoroshoes.com/products/mens-brown-snakeskin-milano-loafer](https://deltoroshoes.com/products/mens-brown-snakeskin-milano-loafer ""smartCard-inline"")
+
+   ah, ignore #2 because now it's working. can you tell me if images are loading for you under ""treat yourself"" on the slideout? they're not loading for me right now but not sure if that's because I'm on plane wifi
+
+   How do I dictate the # of products shown on the slide out?
+   ![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68ca80635978160e0f232fae/download/image.png)"
+2025-09-17T09:29:43.328Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Waiting on details:
+
+[https://dynamatic.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f](https://dynamatic.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f ""‌"")"
+2025-09-17T09:16:09.731Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"Here i send you a video. I've been testing the app but i cant add more than 50 upsell items:
+
+[https://www.awesomescreenshot.com/video/44302828?key=ec809f6653c24ca567c7258650565f48](https://www.awesomescreenshot.com/video/44302828?key=ec809f6653c24ca567c7258650565f48 ""‌"")"
+2025-09-17T09:15:56.373Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"We are currently conducting extensive testing of the app and encountering a significant number of errors. To address these issues effectively, we believe it would be much more efficient to walk through them together in a video meeting rather than describing them in writing."
+2025-09-17T08:56:28.762Z,Ismail Hossain,6800d488046a27c80487e85a,patchpanel.myshopify.com,67505d253f093a932621a9b8,Live,"Issue Reported with free gift
+
+Details here:
+
+[https://dynamatic.reamaze.com/conversations/just-wanted-to-report-a-bug/perma?token=625da5ab2f43a#mid1617793324](https://dynamatic.reamaze.com/conversations/just-wanted-to-report-a-bug/perma?token=625da5ab2f43a#mid1617793324 ""‌"")"
+2025-09-17T08:52:34.246Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,"1. **List Widget or Standard Carousel on Cart**
+
+
+This widget would appear directly on the cart page, showcasing items selected from our dashboard that complement the customer's selection. Given your focus on bridal sets, this is an excellent opportunity to recommend matching wedding bands, diamond stud earrings, or even a classic necklace that complements the style of an engagement ring already in the cart. This helps customers visualize a complete look and increases the overall order value.
+
+‌
+
+1. **Tiered Bar with Milestone for Free Shipping/Discount/Custom**
+
+
+With high-value purchases like yours, shipping costs can be a significant factor. A tiered progress bar at the top of the cart could show customers how close they are to a free shipping threshold. This creates a clear incentive and can gently nudge customers to add a complementary accessory or a jewelry care kit to their order to reach the next tier, turning a potential objection into an opportunity for a higher average order value.
+
+‌
+
+1. **""Frequently Bought Together"" on the Product Detail Page (PDP)**
+
+
+On a PDP, this widget would display items that other customers commonly purchase with the product being viewed. For example, on a specific engagement ring's page, this widget could show a simple diamond wedding band or a delicate eternity ring, making it easy for customers to build a coordinated set.
+
+‌
+
+1. **Interstitial Upsell for ""Add to Cart""**
+
+
+When a customer clicks the ""Add to Cart"" button, an interstitial pop-up could suggest a related, higher-value item or a bundle. For instance, when a customer adds a diamond solitaire, the pop-up could present a bundle offer that includes a matching halo or a wedding band at a slight discount. This provides a last-minute opportunity to upsell before they proceed to checkout.
+
+‌
+
+1. **""Why Buy From Us"" on the PDP**
+
+
+Your brand’s commitment to quality is a major differentiator. Placing a ""Why Buy From Us"" section on product page can be a good idea for building trust.
+
+‌
+
+1. **Trust Badges on the Cart Page**
+
+
+Adding trust badges to the cart page, especially near the checkout button, reassures customers that their transaction is secure. Icons representing secure payment, data privacy, and a satisfaction guarantee can significantly reduce cart abandonment and instill confidence, particularly for first-time buyers.
+
+‌
+
+1. **Review Slider on the PDP**
+
+
+Customer reviews are a form of powerful social proof. A review slider on the PDP, featuring testimonials from satisfied buyers, can build confidence and help potential customers feel more secure in their decision. Highlighting reviews that mention the quality, craftsmanship, and positive customer experience would be particularly effective.
+
+These widgets, when implemented strategically, can transform your customer's journey from a simple transaction to a more engaging and confident shopping experience."
+2025-09-16T17:05:41.544Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"I have one more issue that we just discovered. There seems to be a bug with Shopify's bundling app that duplicates variants if they are the same, causing our customers to get free additional products erroneously. It looks like the fix is to be applied to the cart line-item scripts. Does this make sense to you?
+
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c9984de355322b7b272f30/download/image.png)
+
+‌
+
+It is happening with bundles that contain two of the same items, only when the same variant is selected for each instance of that item. It will add a quantity of 2 of one instance of the item instead of a quantity of 1 resulting in customers getting a free item when they shouldn't. I THINK it only applies to one bundle we have right now, here: [https://www.strikeman.io/products/strikeman-pro-advanced-laser-firearm-training-system-gift-bundle?variant=44302829355181](https://www.strikeman.io/products/strikeman-pro-advanced-laser-firearm-training-system-gift-bundle?variant=44302829355181 ""smartCard-inline"") You can test it by selecting the same caliber for the first and bonus caliber, 9mm for example. You will see a total of 3 lasers added to cart, when it should only be 2. You can see it function correctly if you select a different caliber for the bonus option. I have included a screenshot of both examples. The one with the 40 S&W is functioning correctly. The one with 9MM twice is the problem.
+
+
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c998d7230a6ebc010bb404/download/image.png)
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c9986e6ab803ab13c60d83/download/image.png)"
+2025-09-16T16:32:17.722Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,"**Theme:** REBUY GO LIVE: of _littlebeast/cart\_layout\_fixes_
+ **Status:** Current live theme
+
+Copy Dyna to the live theme."
+2025-09-16T14:12:39.859Z,Ismail Hossain,6800d488046a27c80487e85a,busy-baby-mat.myshopify.com,67a2ea64a6101516dfe611c2,Live,"Shipstation issue update from Jason
+
+![image.png](https://trello.com/1/cards/67a2ea64a6101516dfe611c2/attachments/68c97047826684a160b41502/download/image.png)"
+2025-09-16T13:44:53.947Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,6810ae881830b08bf2441097,Live,"![image.png](https://trello.com/1/cards/6810ae881830b08bf2441097/attachments/68c969c39192036d14dce18f/download/image.png)
+
+![image.png](https://trello.com/1/cards/6810ae881830b08bf2441097/attachments/68c969d24d0b3ab7f6e9e886/download/image.png)"
+2025-09-16T12:18:49.608Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"Hello,
+
+Thank you for your update and the adjustments. I can confirm that passing the correct variant to the cart is working well.
+
+However, I wanted to confirm that I currently do not see any difference yet on the live implementation regarding the pricing.
+
+Just to clarify: the price of the variant should be calculated _per linear meter_. This was already the case before (you can also check how it works on the current site here: [https://www.rodelopers.com/nl_NL/tokyo-110-2m](https://www.rodelopers.com/nl_NL/tokyo-110-2m ""‌"")).
+
+Additionally, the minimum length of the product should be set to 10 meters. At the moment, this still does not seem to be working correctly either.
+
+Could you please confirm if these adjustments are already in place, or if further changes are needed?"
+2025-09-16T11:40:02.607Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"The price is now based on the selected variant. As per the requirements discussed in yesterday's meeting, we have updated the logic so that the selected variant is added to the cart, and the price will reflect the selected variant accordingly.
+
+Please let us know if you were expecting any additional changes."
+2025-09-16T11:34:11.037Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"Please test the fix correctly, because it is not working properly.
+
+I put an video in the attachment. There you see that the price doenst work correctly. and when i change the input number to 20, its says 50.
+
+later I type 25 and 26, but the input says 55 and 56. Can you guys take a look?. now i still cant test if the shipping costs are working correctly.
+
+
+[Bezig met opnemen 2025-09-16 131557.mp4](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68c94b212ff4fcf720632abc/download/Bezig_met_opnemen_2025-09-16_131557.mp4 ""‌"")"
+2025-09-16T11:05:24.115Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68c94470bb9a5f15fa5b1c4a/download/image.png)
+2025-09-16T10:59:48.282Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Reported
+
+[https://ecompropeller.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f](https://ecompropeller.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f ""‌"")"
+2025-09-16T07:41:44.645Z,Rumi,65640aabb59bec9ff96b60a1,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"@ismailhossain64
+
+Hi Brian,
+
+Thanks for passing along their message. We dug deeper into the issue and here’s what we found:
+
+When any changes are made to the cart, a file called `apo-mini-cart-v3.js` is being fetched. As soon as that happens, the cart changes trigger a redirect to the `/cart` page.
+
+To confirm, we recorded a screen capture showing the issue. Then, using dev tools, we temporarily blocked that specific file — and once it was blocked, the redirection stopped. This proves that the redirect is coming from this file alone.
+
+We also downloaded and reviewed the file ourselves. Inside it, there’s an `updateCart` function which makes a fetch call to the `/cart/update.js?avismini=true` endpoint. In the second “then” block, there’s some custom code specific to different shops. Around **line 520**, we found the following snippet:
+
+```
+if (
+  window?.routes?.cart_url &&
+  window?.routes?.cart_url.indexOf("".js"") === -1
+)
+  window.location = window.routes.cart_url;
+else window.location.href = ""/cart"";
+```
+
+As you can see, this explicitly forces a redirect to the `/cart` page.
+
+We removed this redirection locally and overwrote the network request — and once we did that, the issue was fully resolved. I’ve attached a screenshot of the exact line of code for reference.
+
+Please share this with their team and request that they remove or disable this redirection for your shop. That should permanently resolve the problem.
+
+Thanks
+
+[https://www.loom.com/share/aa1a5b32cf8149beb819911ab5e5893b](https://www.loom.com/share/aa1a5b32cf8149beb819911ab5e5893b ""smartCard-embed"")
+
+![CleanShot\_2025-09-16\_at\_13.14.36.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68c90eab78898de70025c793/download/CleanShot_2025-09-16_at_13.14.36.png)"
+2025-09-15T18:56:24.028Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,"![image.png](https://trello.com/1/cards/67c8bd16c7fe35a298d0a035/attachments/68c86147df0ce1775a441ee7/download/image.png)
+
+![image.png](https://trello.com/1/cards/67c8bd16c7fe35a298d0a035/attachments/68c86153a17ddf6d27fe66b3/download/image.png)"
+2025-09-15T18:01:36.556Z,Ismail Hossain,6800d488046a27c80487e85a,aeropress-coffee.myshopify.com,668f16fa240d30b742204bb5,Live,"Testing the new cart and looks like its close to go liveBut i noticed now on the live old cart a red border
+
+![image.png](https://trello.com/1/cards/668f16fa240d30b742204bb5/attachments/68c854798c32965be0365956/download/image.png)
+
+![image.png](https://trello.com/1/cards/668f16fa240d30b742204bb5/attachments/68c85474d71826606e2d71fd/download/image.png)"
+2025-09-15T17:59:45.742Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"can we reduce the white space a bit and make text smaller on mobile only? The items list only has half the screen to work with and the user must scroll through their items in that small space to even see the upsell. If it's possible to tighten things up a bit that would be great
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c853d48308612b1c04c290/download/image.png)"
+2025-09-15T17:49:56.775Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Live,"‌
+
+Hello, thank you for all your help with the cart. I have two requests. I was playing around with adding the free shipping progress bar widget, but I was unable to get it to show up at the very top of the cart. Can we move it to the top? Second, The ""You May Also Like..."" upsell widget is so tall that users may need to scroll to see the Add buttons under the products. Can we make them smaller?
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c851beb88c37d3fae3fcf0/download/image.png)
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c851b75cef5005d8e103a7/download/image.png)
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c851af73c8e28445e3210d/download/image.png)"
+2025-09-15T17:48:48.573Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,"CSS Fix for This:
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c84f9d36ea59c2b1b4c7af/download/image.png)
+
+- Rebuy code cleanup
+- Incorrect recommendation debug
+- Experience name should be editable
+
+  ![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c8516310de1a831d1a78cd/download/image.png)"
+2025-09-15T15:43:18.062Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,6810ae881830b08bf2441097,Live,![image.png](https://trello.com/1/cards/6810ae881830b08bf2441097/attachments/68c83412091f43c6e9a2d6ba/download/image.png)
+2025-09-15T15:42:34.566Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,6810ae881830b08bf2441097,Live,"- Curious how the theme clean up is going. I'm hopeful this will improve speed and conversion
+- Speaking of conversion, our website conversion is pretty poor. I think part of it is due to focusing on preorder (people want immediate gratification) and being sold out of some best sellers
+- That said, I want to continue to optimize it and make some improvements. Below are two projects I'd like to focus on with you all, one of which is currently being worked on, but I think everyone has forgotten about it (bundles)
+  - BUNDLES - What's the status here? We have a great opportunity to clearly show people how they can bundle Swoveralls together and save
+    - I want this to be on brand (typography, colors, vibe)
+    - And simple
+  - UGC Carousels - We have a bunch of great UGC we can upload and showcase on product pages
+- Potential limitations
+  - Our current PDPs are built on Replo, and we might be limited to how we can embed these widgets into the PDP, but I'd like us to explore how. [Replo article.](https://support.replo.app/articles/7049439495-frequently-bought-together ""‌"")
+
+I'm copying [\@Rommel](https://ecompropeller.slack.com/team/U080YHL8WUB ""‌"") on here to help manage this project, and I'd like to focus on the above this week and next.Please let me know if you have any questions or comments. Thank you"
+2025-09-15T13:35:00.458Z,Ismail Hossain,6800d488046a27c80487e85a,rowe-casa.myshopify.com,678ae7407818246e78854c65,Live,![image.png](https://trello.com/1/cards/678ae7407818246e78854c65/attachments/68c815ffc6271da4488102cf/download/image.png)
+2025-09-15T13:34:43.699Z,Ismail Hossain,6800d488046a27c80487e85a,rowe-casa.myshopify.com,678ae7407818246e78854c65,Live,"[https://trello.com/c/yv7IYUtn](https://trello.com/c/yv7IYUtn ""‌"")"
+2025-09-15T13:33:54.307Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,From now on Updates are on main card.
+2025-09-15T13:25:44.349Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68c813d4460dc7db920ca2dc/download/image.png)
+2025-09-15T12:55:05.413Z,Ismail Hossain,6800d488046a27c80487e85a,supplement-mart-1.myshopify.com,6864e0e9c337338c6884442f,Access Requested,![image.png](https://trello.com/1/cards/6864e0e9c337338c6884442f/attachments/68c80ca5146e8ffae690cef1/download/image.png)
+2025-09-15T12:51:26.921Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,![image.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68c80bcbade09654e663cce9/download/image.png)
+2025-09-15T12:47:39.097Z,Rumi,65640aabb59bec9ff96b60a1,Ticket: tradlands.myshopify.com,68c04db7f288159b3470da4b,Tickets,"@ismailhossain64
+
+I completely understand your confusion, and thank you for explaining everything so clearly.
+
+The reason you’re not seeing the correct products in the widget preview is because of a **dashboard bug on our side**. This only affects the preview in the admin — on the actual post-purchase page it will display the correct products and apply the 25% discount as intended. Our team is already working on fixing this in the dashboard.
+
+Regarding whether you need to replace your old widget: you actually don’t need to make any changes there. As I mentioned before, we’re now using a new feature called **Flow Builder** for post-purchase setups.
+
+I’ve already gone ahead and created a flow for you inside Flow Builder (Tools > Flow Builder). You can view it directly here:
+👉 [https://dashboard.dynamatics.app/flow/32](https://dashboard.dynamatics.app/flow/32 ""‌"")
+
+So no worries — everything is set up, and you don’t have to replace widgets manually.
+
+Now you can go ahead and place a test order — if you add _Porch Balloon Pants_ to your cart, you should see _Luna Sleeveless Tank Top_ as the upsell, and vice versa."
+2025-09-15T12:28:57.002Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,"Reported
+
+![image.png](https://trello.com/1/cards/67c8bd16c7fe35a298d0a035/attachments/68c80683510aff5c37b07683/download/image.png)"
+2025-09-15T12:23:38.676Z,Rumi,65640aabb59bec9ff96b60a1,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,"@ismailhossain64
+
+Thanks for sharing all this detailed feedback — it’s super helpful. We’ve gone through each of your points and here’s where we’re at:
+
+### **Single Product Carousel**
+
+- **Add to Cart button**: This should now be working properly. Please test it again on your side.
+- **Spacing between widgets**: This can be adjusted with custom CSS.
+- **Limit product titles to 3 lines**: We don’t allow truncation by number of lines, only by character count. You’ll find this setting under widget customization. Currently, we’ve set it to 85 characters, but you can adjust as needed. For strict line-based truncation, custom CSS would be required.
+- **Image alignment**: We’ve updated this via custom CSS so the product image aligns to the top of its title.
+
+### **Cart**
+
+- **Rounded product images**: Already handled with custom CSS — your images should now display with rounded corners.
+
+### **Widgets**
+
+- **Align product images to top**: Already done with custom CSS.
+- **Rounded corners**: Also applied via custom CSS.
+
+👉 To check all of the custom CSS we’ve applied, you can visit directly here:
+[https://dashboard.dynamatics.app/settings/custom-css/](https://dashboard.dynamatics.app/settings/custom-css/ ""‌"")
+
+Since we work with hundreds of merchants, each with their own brand styles, it’s not possible to include every customization option inside the dashboard. That’s exactly where custom CSS becomes useful — it lets you achieve any look or behavior you want. And if you’re not comfortable writing CSS yourself, no worries! Our team of friendly developers is always happy to listen to your requirements and write the code for you. Don’t hesitate to ask.
+
+### **Recommendations Across the Site**
+
+We have multiple widgets you can use, including **Standard Carousel, Single Carousel, List Widget, Single Product, Frequently Bought Together, Interstitial Upsell, Volume Bundle, Product Recommendation, Collection Recommendation, Product Suggestions**, and more.
+
+These can be placed on the homepage, product pages, cart page, blogs, checkout, and even post-purchase. All you need to do is:
+
+1. Create the widget.
+2. Create a placement zone and grab its ID.
+3. Create a campaign with your desired audience and select the desired zone as well.
+4. Insert the Zone ID wherever you want the widget to display (via the Dynamatic Zone app block).
+
+If you’d like, we can walk you through this process step by step.
+
+### **Tiered Rewards / Gifts Bar**
+
+Based on your requirements, you have five milestones:
+
+- $100: Free Shipping (with code)
+- $150: $10 discount
+- $175: Free gift (ebook)
+- $200: $15 discount
+- $300: $30 discount
+
+We went ahead and configured the tiered bar for you. Since displaying all 5 milestones together didn’t look great, we included 4 of them in the tiered bar and added the **Free Shipping** as an **announcement bar** based on cart subtotal audience.
+
+Everything should now be live for you to preview. Please take a look and let us know how it feels — we’re happy to tweak further until it matches your vision.
+
+Thanks again for the detailed notes — they really help us fine-tune things for you!"
+2025-09-15T12:19:49.159Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,![image.png](https://trello.com/1/cards/681c6cac05142d7121083e65/attachments/68c80461193070f54ff0084c/download/image.png)
+2025-09-15T12:11:20.024Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,"![image.png](https://trello.com/1/cards/681c6cac05142d7121083e65/attachments/68c802509c370283b0e5daaa/download/image.png)
+
+![image.png](https://trello.com/1/cards/681c6cac05142d7121083e65/attachments/68c802634b47ef1c9435b3e3/download/image.png)"
+2025-09-15T11:56:34.455Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68c7feef685a2a25d7c678df/download/image.png)
+2025-09-15T11:48:37.116Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"[https://ecompropeller.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f](https://ecompropeller.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f ""‌"")
+
+Reported"
+2025-09-15T11:45:02.559Z,Rumi,65640aabb59bec9ff96b60a1,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"@ismailhossain64
+
+Hi,
+
+Thanks so much for letting us know — I really appreciate you flagging this. We dug into it and here’s what we found:
+
+- When a product with options is added for the first time, everything works fine. The product and options are added correctly, and the options remain hidden as expected.
+- The issue only appears when you increase the quantity of that product. At that point, the cart briefly redirects to the **“/cart”** page before reopening the slide cart, which causes the flashing and disappearing effect (as shown in the Loom).
+
+The reason is related to the **Avis Product Options** app. It’s built for a standard Shopify cart page, where updating quantity requires a page reload. On a slide cart, though, that reload isn’t necessary since the cart is already dynamic and updates instantly — which is why it feels disruptive here.
+
+The best step is to reach out to the Avis team and let them know you’re using a slide cart. They’ll just need to adjust things so it doesn’t reload after changes like increasing quantity or removing products. And of course, if their team needs any help from our side, we’re more than happy to collaborate with them.
+
+We want to make sure you and your customers have the smoothest possible cart experience, so please let us know how it goes.
+
+[https://www.loom.com/share/017ce5ebd0f14d89b60b0d7eb0f30725](https://www.loom.com/share/017ce5ebd0f14d89b60b0d7eb0f30725 ""smartCard-embed"")"
+2025-09-15T10:34:13.466Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Access Granted,"Live!
+
+![image.png](https://trello.com/1/cards/68c11594aeeefe622d53a7b5/attachments/68c7eb9fc3631cfee1b243d7/download/image.png)"
+2025-09-15T10:15:04.270Z,Rumi,65640aabb59bec9ff96b60a1,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Live,"Resolved multiple issues.
+
+![CleanShot\_2025-09-15\_at\_16.14.43.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c7e724328af81a85d7c618/download/CleanShot_2025-09-15_at_16.14.43.png)"
+2025-09-12T19:08:02.143Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,"I think I was told the analytics was being reworked but is the impressions # accurate at all?  Is this the total number of people that saw the widget?  If so, it should be way higher than this.  Our take rate has been significantly lower than I really would have thought it would have been and i've been questioning if customers really don't care as much as I would have thought, or is the widget not visible for all customers.  We even reduced the price from $4.99 to $3.99 and didn't see any increase in conversion.
+
+![image.png](https://trello.com/1/cards/681c6cac05142d7121083e65/attachments/68c46f8da4a94b8ab05034de/download/image.png)"
+2025-09-12T18:49:20.601Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Thank you. It looks like there is still a problem. When I add a product with options and increase the quantity of that item in the cart, the cart flashes and disappears. Can you check that too?"
+2025-09-12T15:04:20.390Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Access Granted,"we have some feedback on the cart and theme and some tests we'd like to run. Pls view this [loom HERE](https://www.loom.com/share/13f784e107ae4d6e9d5db641e97e3d5c?sid=57366327-e7b1-49f4-ae71-6a065d18a3a1 ""‌"")
+
+1. **Cart page style updates**
+   - Change “Congrats you’ve unlocked free shipping” section to the _blue used on the cart page_
+   - Make “anything you’d be interested in” background _gray_ to clearly separate it from cart items
+   - Consider moving the “anything you’d be interested in” section for better clarity
+   - Add a bar to separate customer reviews from value props
+   - Reduce padding in cart to give more space at the top
+2. **Button & hover changes**
+   - Keep hover functionality but ensure links stay _navy blue_ (no color shift)
+   - Update “Proceed to checkout” → “Checkout” (remove emoji)
+3. **Theme requirements**
+   - Duplicate _Dawn theme v15.4_ before making updates
+   - Apply all changes to the duplicated Dawn theme going forward
+   - All future Dynamatic themes should be based on this Dawn code cleanup
+4. **A/B testing discussion**
+   - Explore creating two site versions with different homepage + PDP pairings
+   - Both versions should share the new slide-out cart
+   - Confirm whether Dynamatic can set this up internally, or if we should use a tool like Shoplift"
+2025-09-12T13:51:54.259Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"[https://ecompropeller.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f](https://ecompropeller.reamaze.com/admin/conversations/excited-to-have-you-at-dynamatic-4a9ea982ec682b7f ""‌"")
+
+Reported"
+2025-09-12T13:49:57.095Z,Ismail Hossain,6800d488046a27c80487e85a,f3a103-23.myshopify.com,68bffb04a1a3e7421cef0610,Access Granted,![image.png](https://trello.com/1/cards/68bffb04a1a3e7421cef0610/attachments/68c424de183ee68cda355309/download/image.png)
+2025-09-12T13:44:10.582Z,Rumi,65640aabb59bec9ff96b60a1,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Resolved. The options won’t show anymore.
+
+![CleanShot\_2025-09-12\_at\_19.43.17.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68c42394980d573c2e2b7bb1/download/CleanShot_2025-09-12_at_19.43.17.png)"
+2025-09-12T13:15:23.635Z,Ismail Hossain,6800d488046a27c80487e85a,f3a103-23.myshopify.com,68bffb04a1a3e7421cef0610,Access Granted,![image.png](https://trello.com/1/cards/68bffb04a1a3e7421cef0610/attachments/68c41ce7a5b1a9c200ae6a78/download/image.png)
+2025-09-12T13:05:45.775Z,Ismail Hossain,6800d488046a27c80487e85a,the-best-backyard.myshopify.com,68a701386e1081834b2b4f26,In Progress,![image.png](https://trello.com/1/cards/68a701386e1081834b2b4f26/attachments/68c41aa70b57af6e1b9c3a72/download/image.png)
+2025-09-12T13:00:58.310Z,Ismail Hossain,6800d488046a27c80487e85a,extraordinary-symbols.myshopify.com,66ed6f77aa9ebb6c578c492a,Live,![image.png](https://trello.com/1/cards/66ed6f77aa9ebb6c578c492a/attachments/68c41986e6c20b411677bc6d/download/image.png)
+2025-09-12T12:34:32.878Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Access Granted,Reported
+2025-09-12T12:29:41.067Z,Rumi,65640aabb59bec9ff96b60a1,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Access Granted,"@ismailhossain64
+
+Thanks for the feedback — it makes perfect sense.
+
+Just to clarify, the **variant picker already doesn’t appear for products without variants**. You can double-check this in your cart now and see that it only shows up when needed.
+
+Regarding the widget height, we understand what you mean. While we don’t currently offer a direct height adjustment, we do have different widget styles that naturally vary in layout and size. For example:
+
+- **Standard Carousel** (what you have now)
+- **List Widget**, which displays products in a simple horizontal list
+- **Single Carousel**, which shows products horizontally in a sliding carousel
+
+To help you visualize, we went ahead and configured **all of these widget options in your cart**. You’ll be able to see:
+
+- List Widget
+- Standard Carousel with 2 items
+- Standard Carousel with 3 items
+- Single Carousel
+
+Please visit the preview URL and test them out. Once you decide which style works best for your brand and feels the most user-friendly, we’ll remove the others and keep only your preferred widget.
+
+Preview URL: `https://se6ldluirjd2znls-6770655284.shopifypreview.com`
+
+This way you can choose the option that looks the cleanest and fits your store’s flow best.
+
+Thanks again for pointing this out — we really appreciate your eye for detail!"
+2025-09-12T12:03:04.493Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,![image.png](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68c40bf3b0f56f2c0bb890e7/download/image.png)
+2025-09-12T11:30:24.946Z,Ismail Hossain,6800d488046a27c80487e85a,extraordinary-symbols.myshopify.com,66ed6f77aa9ebb6c578c492a,Live,"The option for free shipping once $125 has been added to the cart (TieredBar2-FreeShip) is not being activated in the cart, apparently. Multiple customers have emailed us about the shipping not being calculated as FREE."
+2025-09-12T11:29:30.467Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,"[Screen Recording 2025-09-11 at 1.12.19 PM.mov](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68c40408ceff47133f94a926/download/Screen_Recording_2025-09-11_at_1.12.19_PM.mov ""‌"")  [Screen Recording 2025-09-11 at 1.09.10 PM.mov](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68c4040615a7f4651112299a/download/Screen_Recording_2025-09-11_at_1.09.10_PM.mov ""‌"")"
+2025-09-12T10:56:33.568Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,![image.png](https://trello.com/1/cards/67c8bd16c7fe35a298d0a035/attachments/68c3fc5b57169fb75a176045/download/image.png)
+2025-09-12T10:48:14.502Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,"Great thanks, that worked. Lots of of other weird things though. Here are a few of them:
+
+‌
+
+**Single Product Carousel (we've turned it off because the add to cart button isn't working)**
+
+- add to cart button not working
+- how to control the space between widgets in the cart better ie current space between carousel and our one time offer widget is too big
+- how to limit product titles in carousel to 3 lines and truncate
+- how to force carousel product image to align to top of its title rather than center?
+
+‌
+
+**Cart**:
+How to make the product images have rounded corners?
+
+‌
+
+**Widgets**:
+How to line the product image to top so that it aligns with the top of its title rather than center
+How to apply rounded corners?
+
+‌
+
+**Other Questions:**
+How to implement recommendations throughout the site ie home page, product pages, cart page, blogs etc.
+
+‌
+
+**How to implement a tiered rewards/gifts bar that includes a free shipping with code option that can be easily turned on/off when relavant to an active promotion? As follows:**
+
+- Tiers for cash back at $150 ($10), $200 ($15) and $300 ($30)
+- Free gift (ebook) at $175 (PDF download with auto add to cart? It's currently a variant of a product with 2 variants (paperback and ebook)
+- Free shipping (during portions ONLY, with code) at $100 (ie ""You've Earned FREE Shipping! Use Code: DONNERDIDIT at Checkout!"")
+
+‌
+
+Thanks much,"
+2025-09-12T10:34:49.168Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c3f745f19b336653c17bb9/download/image.png)
+2025-09-12T10:34:11.679Z,Ismail Hossain,6800d488046a27c80487e85a,f3a103-23.myshopify.com,68bffb04a1a3e7421cef0610,Access Granted,"Cart setup by  @jahidhowlader1
+
+![image.png](https://trello.com/1/cards/68bffb04a1a3e7421cef0610/attachments/68c3f720df2ea16cedbd72d7/download/image.png)
+
+![image.png](https://trello.com/1/cards/68bffb04a1a3e7421cef0610/attachments/68c4070ddfb96f09a8473d48/download/image.png)"
+2025-09-12T10:10:43.438Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Waiting on Merchant,"‌
+
+a little UX feedback I think it would be more intuitive to default the mobile trigger to ""Hide"" with a note somewhere saying it's desktop-only
+
+![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c3f07af11439128e7c0450/download/image.png)
+
+‌
+
+or alternatively maybe to have a desktop & mobile indicator on the widget page
+
+![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c3f08e3ac241d16900b77b/download/image.png)
+
+but we would still want to use this for desktop so any idea why all of a sudden its not working there anymore when it was earlier today?
+
+
+feedback on the list widget (hoping we can address during the call)
+
+1. not sure if it's because Im working in a dupe theme, but when I actually go to ""add"", it just spins & doesn't actually update or add anything to my cart (true on mobile + desktop)
+2. I hav
+   e the list widget set up to reference Feed #1 ""Accessories for all Men's Footwear"" where we want to offer 10% any accessory when you add to cart. The accessories I have included in this are (3) collections - socks, belts, & hats. I also have it configured NOT to limit the # of options shown, and to make it scrollable. However, when I go to test this I am only shown 5 products, whereas there should be a lot more. It's also not very intuitive that it's scrollable because there's no scroll bar or anything. Open to suggestions if there's a better widget to achieve the same goal, but wanted to send my feedback in the meantime
+
+   ![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c3f132ab063d34d00abed6/download/image.png)
+   ![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c3f118b0de18b8414938ce/download/image.png)
+   ![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c3f123507706236c54d46c/download/image.png)"
+2025-09-11T18:39:52.538Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"can you inform me why all of these are active!??
+
+This is the order (904458) that caused the red flag ... not sure how this even happened....trim10 is not a free gift and recharge was never free
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68c317bfaca24fbe8382e992/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68c317af30cf0c9feeb131d0/download/image.png)
+
+
+This is the order (904458) that caused the red flag ... not sure how this even happened....trim10 is not a free gift and recharge was never free
+
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68c3180c0427fc764958dd15/download/image.png)"
+2025-09-11T15:48:16.005Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Access Granted,"Right off the bat, we have a couple requests: in the upsell list and carousel, we need to be able to remove the variant picker for items that do not have variants. In the carousel, we'd like the ability to adjust the height of the item cards (or potentially change the orientation of the photos from landscape to portrait and vice versa as that would affect the height). Regarding the cart build, should we start a cart theme on our end or wait for you to create a matching cart like mentioned on the call?
+
+Awesome, it looks good so far. Regarding the other requests, we offer some items which have variants to choose from and some that don't, and would like the variant picker drop down to not show up for the ones that don't, as it doesn't make sense to be there in those situations. The widgets look very tall so we were hoping to have some adjustability for the height of the cards/list items as well, which could include changing the orientation of the photos to landscape or just having a height adjustment. Hope that makes more sense!"
+2025-09-11T15:17:57.442Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: tradlands.myshopify.com,68c04db7f288159b3470da4b,Tickets,"‌
+
+Do you have any docs that explains rules? I'm lost as to how the 2 rules you setup effect the widget.Like I said in my video here's my goal for this upsell:
+\-If someone buys Porch Balloons Pants they are shown a Luna Sleeveless Tank Top upsell with a discount
+\-Or, if someone buys a Luna Sleeveless Tank Top they are shown a Porch Balloon Pants upsell with a discountWhen I preview the widget you linked to it doesn't show either Porch Balloon Pants or Luna Sleeveless Tank Top in the preview (see attached). Should it show the correct products in the widget preview?I had previously setup a upsell called ""BFCM Post Purchase Upsell"" that lived in the campaign ""Non VIP Cart for November 13-26"" as an Experience called ""BFCM Post Purchase Upsell"" in the Zone ""BFCM Post Purchase Upsell"". I'm lost and don't remember why it's setup like that. If I want to use your new widget would I replace the current current widget in the campaign with the new upsell widget?
+
+![image.png](https://trello.com/1/cards/68c04db7f288159b3470da4b/attachments/68c2e81c5d2a7b18c5936415/download/image.png)
+
+![image.png](https://trello.com/1/cards/68c04db7f288159b3470da4b/attachments/68c2e2b8795ab557b97ea292/download/image.png)"
+2025-09-11T14:37:31.841Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Access Granted,![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68c2dea6fff09debc2492506/download/image.png)
+2025-09-11T12:23:26.180Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68c2bf3a90944d48be910554/download/image.png)
+2025-09-11T12:07:09.540Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,"[Ecom Propeller Mail - The Christmas Light Emporium - Getting the most out of Dynamatic.pdf](https://trello.com/1/cards/67c8bd16c7fe35a298d0a035/attachments/68c2bb67f4f1d04379de3461/download/Ecom_Propeller_Mail_-_The_Christmas_Light_Emporium_-_Getting_the_most_out_of_Dynamatic.pdf ""‌"")"
+2025-09-11T11:40:23.231Z,Ismail Hossain,6800d488046a27c80487e85a,mytravelpro-eu.myshopify.com,689456c2136d68ef5cad5a08,Live,"![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68c2b50fd567a6f755560600/download/image.png)
+
+![image.png](https://trello.com/1/cards/689456c2136d68ef5cad5a08/attachments/68c2b520acbdbc0eaf72ea18/download/image.png)"
+2025-09-11T10:31:24.108Z,Ismail Hossain,6800d488046a27c80487e85a,f3a103-23.myshopify.com,68bffb04a1a3e7421cef0610,Access Granted,"@jahidhowlader1
+
+What I need is pretty simple :
+
+- the entry point is the purchase of one of the bracelet of the collection.
+
+  If you put the Classic in your cart you are offered upsell options : classic watch connectors and classic smartwatch connector. Ideally if you buy one, you pay full price, 2 you get 10% discount on the connectors, 3+ 15%
+
+If you put the Shadow in your cart you are offered upsell options : shadow watch connectors and shadow smartwatch connector. Ideally if you buy one, you pay full price, 2 you get 10% discount on the connectors, 3+ 15%
+
+If you put the Titanium in your cart you are offered upsell options : titanium watch connectors and titanium smartwatch connector. Ideally if you buy one, you pay full price, 2 you get 10% discount on the connectors, 3+ 15%
+
+Then after the purchase, you can be offered a second Smartlet for 15% less (like you bought the classic and you are offered to buy a classic, a titanium or a shadow at 15% rebate
+
+Let me know if you have other options tha coulé be interesting based on your experience "
+2025-09-11T10:21:04.534Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Access Granted,"@jahidhowlader1
+
+1. Can the cart pop out when something is added to cart?
+2. Can we add the icons like Swoveralls? But using the Duderobe ones?
+3. Would love to include a review slider to further reaffirm the purchase. Is there a better layout to include that and the upsells?
+
+![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68c2a28178bb2e79a12e6a46/download/image.png)
+
+![image.png](https://trello.com/1/cards/68bc0dfc737b6782854c599f/attachments/68c2a28c869b39aebd778cd2/download/image.png)"
+2025-09-10T16:34:48.398Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,"‌
+
+i will want to replace the top banner ad - so that its more dynamic
+
+right now we control that only through theme blocks
+
+the only thing i did not test was post purchase
+
+we have a basic one: it does not look like this but i think we need some sort of post purchase offer - it will not be this exact offer but if we can setup the framework i can make the offer
+
+---
+
+we have a basic one: it does not look like this but i think we need some sort of post purchase offer - it will not be this exact offer but if we can setup the framework i can make the offer
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c1a814f91d221799b49d47/download/image.png)
+
+---
+
+‌
+
+we also have a pop
+up offer - when someone adds something specific - we pop up with an offer
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c1a86345a678a53677a55a/download/image.png)
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c1a86f83154efbb14326d6/download/image.png)
+
+---
+
+basically
+
+- i want to learn how to fully utilize the app so that I can make offers on my own. for example... i need to sell more red sweatres... how can i start to push the red sweater throughout the app so that dynamtic is selling more red sewaters in all the widgets
+- i want to make better bundles for new products - for example we launch a new Collar and Leash... in rebuy - i have to manually go into the data source and make rules every time. is there a way to dynamically just show the new collar and leash combo ?
+- run through each widget and see how each function works so that i can smartly utilize every aspect of the site
+- we need to focus on mobile experience
+- maybe go through some cosmetic changes on some widgets"
+2025-09-10T14:57:10.293Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"Hi Ishmael,
+
+Thanks for the detailed update and for sorting out the points.
+
+1. The option that was missing is the set for the Miami runner (see: [https://rodelopers.myshopify.com/products/miami-zand](https://rodelopers.myshopify.com/products/miami-zand ""smartCard-inline"") ). Let me know if you need the details.
+
+1. Regarding the variant/calculation: got it, that explains the discrepancy. We need to ensure the correct variant and quantity are added to the cart based on the selected length. Let's discuss this in a call.
+
+1. Good to hear the cart issue is resolved.
+
+Do you have time tomorrow morning (10 am?) to schedule a meeting?
+
+---
+
+‌
+
+![image.png](https://trello.com/1/cards/685271c212fd397a29c3d500/attachments/68c1918739ebbd7b8dae3494/download/image.png)
+
+---
+
+![image.png](https://trello.com/1/cards/685271c212fd397a29c3d500/attachments/68c191a3ec4914a650e13947/download/image.png)"
+2025-09-10T14:36:31.634Z,Ismail Hossain,6800d488046a27c80487e85a,battling-blades.myshopify.com,66eaa3c31bbdc8cc5795866a,Live,"Hello,
+
+I am having an issue with the cart. I am working with a custom options company and when the products are added to the cart, the cart shows the options, then flashes them away. The options should not show at all since they are added to the price. They said the cart developers need to fix it on their end. Are you able to help with this? Below is what they said:
+
+![image.png](https://trello.com/1/cards/66eaa3c31bbdc8cc5795866a/attachments/68c18ceb4b8510491ad80992/download/image.png)"
+2025-09-10T13:07:15.203Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68c177ff24b3da6d53067ea4/download/image.png)
+2025-09-10T12:49:37.596Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Waiting on Merchant,![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68c173ddd52c05fcf3285f95/download/image.png)
+2025-09-10T11:35:52.237Z,Ismail Hossain,6800d488046a27c80487e85a,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Access Granted,"[https://docs.google.com/document/d/1HF8WpG-JI6UMLlWiUl9Uvg2qCwd7T783IO780aquzq0/edit?usp=sharing](https://docs.google.com/document/d/1HF8WpG-JI6UMLlWiUl9Uvg2qCwd7T783IO780aquzq0/edit?usp=sharing ""‌"")"
+2025-09-10T11:18:32.138Z,Ismail Hossain,6800d488046a27c80487e85a,basedbodyworks.myshopify.com,6673ca0c95b5dda617a2e656,Live,![image.png](https://trello.com/1/cards/6673ca0c95b5dda617a2e656/attachments/68c15e81182b5a10a6a2ed32/download/image.png)
+2025-09-10T08:50:05.346Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,"I think we are going to want to create a version of the Skip the Line widget that is dynamic and shows a different price depending on the size of cart.  For example <$70 = $2.99, >$70 & $200 = $3.99, $200+ = $4.99.  Is this possible without a lot of reloading of the widget?  Basically needs to operate similar to Navidium where it quickly reloads the widget if the size of the cart changes."
+2025-09-10T08:27:07.473Z,Rumi,65640aabb59bec9ff96b60a1,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"There is an option at our dashboard to control this, they had this turned on intentionally. I turned it off and it seems to be working fine.
+
+![CleanShot\_2025-09-10\_at\_14.26.27.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68c13657d1087cd5c64f8726/download/CleanShot_2025-09-10_at_14.26.27.png)"
+2025-09-10T08:22:49.965Z,Ismail Hossain,6800d488046a27c80487e85a,tradlands.myshopify.com,67131864b9a338538eba119d,Live,Reported
+2025-09-10T08:03:24.275Z,Rumi,65640aabb59bec9ff96b60a1,tradlands.myshopify.com,67131864b9a338538eba119d,Live,"@ismailhossain64
+
+‌
+
+The issue you’re facing can be easily solved using our **Rules Feed**, which is one of our latest and most powerful features. I’ve already set one up for you here: [https://dashboard.dynamatics.app/rules-feeds/344](https://dashboard.dynamatics.app/rules-feeds/344 ""‌""). You can customize this and add more rules anytime to fit your needs.
+
+Next, I created a new widget that’s better suited for your requirements. You can find it here: [https://dashboard.dynamatics.app/widgets/4820/105](https://dashboard.dynamatics.app/widgets/4820/105 ""‌"").
+
+After that, I went into our **Flow Builder** (Tools > Flow Builder), which is mainly used to create Post Purchase Funnels, and set up a flow using this widget. Here’s the direct link to the flow: [https://dashboard.dynamatics.app/flow/32](https://dashboard.dynamatics.app/flow/32 ""‌"").
+
+Now, all that’s left is for you to go to your **Checkout settings** and select **Dynamatic** as your post-purchase page. Once that’s done, you can place a test order to confirm everything is working correctly.
+
+If anything doesn’t look right, don’t worry — we’re here and ready to help you fine-tune it."
+2025-09-10T07:29:58.475Z,Rumi,65640aabb59bec9ff96b60a1,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Access Granted,"Cart setup completed by Mr. Jahid
+
+Preview Link: `https://uj9htoawcdijgq66-26969530.shopifypreview.com`
+
+Theme Name: Production [DYNAMATIC]"
+2025-09-10T06:31:58.788Z,Rumi,65640aabb59bec9ff96b60a1,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,Upsell widget padding issue has been resolved already
+2025-09-10T06:13:41.401Z,Samiul Alim,65a11752f9822c63c9cde145,Ticket: aeropress-coffee.myshopify.com,68353cc0cbbf5db3f177b636,Tickets: Completed,@ismailhossain64  any update on this?
+2025-09-10T06:12:28.517Z,Rumi,65640aabb59bec9ff96b60a1,drifiresystem.myshopify.com,68c11594aeeefe622d53a7b5,Access Granted,Access granted. Cart setup being initiliazed by @jahidhowlader1
+2025-09-10T04:31:09.942Z,Samiul Alim,65a11752f9822c63c9cde145,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,Button colors updated
+2025-09-09T18:49:25.991Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,"‌
+
+We just need to adjust it to match the theme buttons
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c0769fae8bcec4a5ba050d/download/image.png)"
+2025-09-09T16:10:04.953Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,### Do you have screenshots showing the two other options of the Flow funnel working as expected? I would like to have you test those and show me screenshots so I can confirm that each one is triggering as expected and the text/display is working as expected on those as well.
+2025-09-09T15:54:40.684Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: tradlands.myshopify.com,68c04db7f288159b3470da4b,Tickets,"can you assist me with setting up a post purchase upsell offer? See video:[https://share.cleanshot.com/R2B38sCm](https://share.cleanshot.com/R2B38sCm ""‌"")"
+2025-09-09T14:39:11.726Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68c03c0c6a363a0eb43a2086/download/image.png)
+2025-09-09T14:22:40.954Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,input required of Cart from @abuhasanrumi1
+2025-09-09T14:22:19.797Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,We have checked and found out the option set is showing now. But the issue is We created the configurator to calculate total circumference  by 1m^2 . So if someone choose to buy 20m^2 of carpet we will add 1m^2 variant * 20 items in cart. As you set the variants to 100cm and 200cm it will calculate wrong amount.
+2025-09-09T13:31:15.808Z,Ismail Hossain,6800d488046a27c80487e85a,palaces-jewellery-site.myshopify.com,68aee5d73ba99f7a6bb9051d,Access Requested,![image.png](https://trello.com/1/cards/68aee5d73ba99f7a6bb9051d/attachments/68c02c2010ec462d1a06f2a6/download/image.png)
+2025-09-09T12:59:22.704Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68c024a73d96bfd0ce197206/download/image.png)
+2025-09-09T12:47:53.449Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68c021f564cc57a696d1e15a/download/image.png)
+2025-09-09T12:17:25.684Z,Ismail Hossain,6800d488046a27c80487e85a,howmuchbitcoin-merchandise-store.myshopify.com,67cfccadfcb65f0f52ed5873,Live,![image.png](https://trello.com/1/cards/67cfccadfcb65f0f52ed5873/attachments/68c01ad22c52b72a90c7fd66/download/image.png)
+2025-09-09T10:57:34.989Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,"[TrekLight Mail .pdf](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68c008159138a7423fb1519e/download/TrekLight_Mail_.pdf ""‌"")"
+2025-09-09T10:11:18.364Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,"can we reduce the padding within the product upsell section?  There’s a lot of wasted space. Don’t remember there being so much.
+
+![image.png](https://trello.com/1/cards/681c6cac05142d7121083e65/attachments/68bffd3f0c7d0543f1aa87d8/download/image.png)"
+2025-09-09T10:04:37.149Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68bffbb1e3776075d221b4d6/download/image.png)
+2025-09-08T16:25:23.600Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Access Granted,Replace aftersell!
+2025-09-08T16:24:57.766Z,Ismail Hossain,6800d488046a27c80487e85a,dude-robe.myshopify.com,68bc0dfc737b6782854c599f,Access Granted,"the other project we want to do here is create a slide out cart that resembles the Swoveralls slideout cart in most ways, but within the DudeRobe style"
+2025-09-08T14:50:02.583Z,Ismail Hossain,6800d488046a27c80487e85a,carbonfibergear.myshopify.com,66bc44d80e199cebc0fd3404,Live,![image.png](https://trello.com/1/cards/66bc44d80e199cebc0fd3404/attachments/68beed15c55e554ca69ee1ea/download/image.png)
+2025-09-08T14:32:29.970Z,Samiul Alim,65a11752f9822c63c9cde145,carbonfibergear.myshopify.com,66bc44d80e199cebc0fd3404,Live,@ismailhossain64
+2025-09-08T14:32:23.379Z,Samiul Alim,65a11752f9822c63c9cde145,carbonfibergear.myshopify.com,66bc44d80e199cebc0fd3404,Live,"The issue was , merchant updated the collection in shopify admin. so after changing collection property it need to be also updated in dashboard.  you can do it by open the widget and remove the collection and add it again"
+2025-09-08T14:31:00.929Z,Ismail Hossain,6800d488046a27c80487e85a,carbonfibergear.myshopify.com,66bc44d80e199cebc0fd3404,Live,![image.png](https://trello.com/1/cards/66bc44d80e199cebc0fd3404/attachments/68bee89fa57fdab9250ad510/download/image.png)
+2025-09-08T13:37:25.441Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68bedc058616a083fab00ff6/download/image.png)
+2025-09-08T13:20:14.949Z,Ismail Hossain,6800d488046a27c80487e85a,carbonfibergear.myshopify.com,66bc44d80e199cebc0fd3404,Live,"It seems this upsell is no longer popping: [https://dashboard.dynamatics.app/widgets/1767/76](https://dashboard.dynamatics.app/widgets/1767/76 ""‌"")
+
+It's in this campaign: [https://dashboard.dynamatics.app/campaigns/752](https://dashboard.dynamatics.app/campaigns/752 ""‌"")"
+2025-09-08T11:58:34.673Z,Abid Hasan,655f10d096353b8333e8babf,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,"@ismailhossain64
+
+> Can the product title be in our site's heading font (MADE Dillan)? If that's not possible then it should at least be Bold (but not both)
+
+heading tag was used in post purchase’s product title. so, if you set checkout’s heading font family to MADE Dillian you will get that font"
+2025-09-08T11:25:47.036Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Waiting on Merchant,"[https://docs.google.com/document/d/1-1T0GUO41Fo2egeVzhLJ_Wfs2yqUmdIJcGl7VtHHLRo/edit?usp=sharing](https://docs.google.com/document/d/1-1T0GUO41Fo2egeVzhLJ_Wfs2yqUmdIJcGl7VtHHLRo/edit?usp=sharing ""‌"")"
+2025-09-08T10:47:52.421Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: rowe-casa-organics.myshopify.com,681c6cac05142d7121083e65,Tickets,Discount issue - Resolved
+2025-09-08T10:47:02.764Z,Ismail Hossain,6800d488046a27c80487e85a,jewelryexpo-new.myshopify.com,68301961a5f5becbdf9de636,Access Requested,![image.png](https://trello.com/1/cards/68301961a5f5becbdf9de636/attachments/68beb4237b5fbe6a86f2c13f/download/image.png)
+2025-09-08T10:30:22.488Z,Ismail Hossain,6800d488046a27c80487e85a,aromanticltd.myshopify.com,6717cd667a254ad06897141b,Live,"Post Purchase Resolved
+
+![image.png](https://trello.com/1/cards/6717cd667a254ad06897141b/attachments/68beb03b652791a3f00866b5/download/image.png)"
+2025-09-08T10:29:41.446Z,Ismail Hossain,6800d488046a27c80487e85a,aromanticltd.myshopify.com,6717cd667a254ad06897141b,Live,"Discount issue resolved
+
+![image.png](https://trello.com/1/cards/6717cd667a254ad06897141b/attachments/68beb012468da01f49cbcd5b/download/image.png)"
+2025-09-08T10:24:29.271Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: 1i1rt1-j0.myshopify.com (Delutto),68babd4a91b4d36d0c7d392b,Tickets,"Resolved
+
+‌
+
+![image.png](https://trello.com/1/cards/68babd4a91b4d36d0c7d392b/attachments/68beaed409cb721c17acf9dd/download/image.png)"
+2025-09-08T10:17:58.094Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"‌
+
+Thanks again for your support. After testing a bit further, there are still a few issues we’ve run into:
+
+1. We created a new option set (for example on the Miami runner: [link](https://rodelopers.myshopify.com/products/miami-zand?_pos=3&_psq=miami&_ss=e&_v=1.0 ""‌"")), but it isn’t showing up on the product page.
+2. When clicking the _“Winkelwagen Bekijken”_ (View Cart) button, it doesn’t actually take you to the cart (see screenshot attached).
+3. When adding an item to the cart, the cart does not update.
+4. When I add a 200 cm runner to the cart, the cart shows _Variant: 100 cm_ instead (see screenshot). The shipping costs are also calculated incorrectly based on this wrong variant.
+
+Could you take a look at these points? Let me know if you need more details or if you’d like me to run additional tests.
+
+[dd9f4666-d5f2-4f6b-bda2-b802a1a3f213.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68bead338d2aa9c3c4e71254/download/dd9f4666-d5f2-4f6b-bda2-b802a1a3f213.png ""‌"") [Schermafbeelding 2025-09-02 145700.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68bead3e63d02f190ab470a7/download/Schermafbeelding_2025-09-02_145700.png ""‌"")
+ [db849173-0a39-471c-bf4d-74553b75ca23.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68bead2802244f2f98991fa9/download/db849173-0a39-471c-bf4d-74553b75ca23.png ""‌"")"
+2025-09-06T12:17:30.021Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: 1i1rt1-j0.myshopify.com (Delutto),68babd4a91b4d36d0c7d392b,Tickets,![image.png](https://trello.com/1/cards/68babd4a91b4d36d0c7d392b/attachments/68bc263e3281b08ad396970b/download/image.png)
+2025-09-06T12:06:15.157Z,Rumi,65640aabb59bec9ff96b60a1,Ticket: 1i1rt1-j0.myshopify.com (Delutto),68babd4a91b4d36d0c7d392b,Tickets,"@ismailhossain64
+
+I’m very sorry for the recurring issue — this isn’t something we usually encounter. It was caused by an unusual sizing of the close (X) icon.
+
+We’ve fixed it by adding a custom CSS adjustment. You can see it here: [https://dashboard.dynamatics.app/settings/custom-css](https://dashboard.dynamatics.app/settings/custom-css ""‌"")
+
+Here’s the CSS snippet we applied:
+
+```
+img.dyn-cart-close-image {
+    width: 30px !important;
+    height: auto !important;
+}
+```
+
+This resolves the problem. After applying the change, we tested it thoroughly on iPhone 12 Pro, Samsung Galaxy S24 Ultra, and MacOS, and it now works as expected.
+
+Once again, I sincerely apologize for the repeated issue and truly appreciate your patience as we worked through it.
+
+Thanks
+
+‌
+
+‌
+
+iPhone 12 Pro
+
+![CleanShot\_2025-09-06\_at\_17.53.30%402x.png](https://trello.com/1/cards/68babd4a91b4d36d0c7d392b/attachments/68bc20ca977afab801e125e7/download/CleanShot_2025-09-06_at_17.53.30%402x.png)
+
+Samsung Galaxy S24 Ultra
+
+![CleanShot\_2025-09-06\_at\_17.54.47%402x.png](https://trello.com/1/cards/68babd4a91b4d36d0c7d392b/attachments/68bc211862c778449eca4327/download/CleanShot_2025-09-06_at_17.54.47%402x.png)
+
+Mac OS (Chrome)
+
+![CleanShot\_2025-09-06\_at\_17.56.01%402x.png](https://trello.com/1/cards/68babd4a91b4d36d0c7d392b/attachments/68bc217627bb25798ac11fb6/download/CleanShot_2025-09-06_at_17.56.01%402x.png)"
+2025-09-05T19:00:00.172Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"Starting Tuesday Sept 9th, we will be running a free gift card promo. If they spend $99usd, 74 GBP, 1885 pesos, 138 cad then we want to auto add a $25 usd gift card to their cart. Please help get this set up and ensure it is accurate and working"
+2025-09-05T10:41:57.922Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: 1i1rt1-j0.myshopify.com (Delutto),68babd4a91b4d36d0c7d392b,Tickets,"[https://ecompropeller.reamaze.com/admin/conversations/technical-support-08a00bef1a9ac9c5](https://ecompropeller.reamaze.com/admin/conversations/technical-support-08a00bef1a9ac9c5 ""‌"")"
+2025-09-05T10:40:21.916Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: 1i1rt1-j0.myshopify.com,68babd4a91b4d36d0c7d392b,Tickets,![image.png](https://trello.com/1/cards/68babd4a91b4d36d0c7d392b/attachments/68babe13a641585a383ef812/download/image.png)
+2025-09-05T10:37:08.970Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: 1i1rt1-j0.myshopify.com,68babd4a91b4d36d0c7d392b,Tickets,"Good morning,
+
+Thanks for improving that aspect. However, once again, you've removed the
+""x"" symbol to close the cart on your computer.
+
+Regards."
+2025-09-04T19:15:57.833Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Waiting on Merchant,"[https://ecompropeller.slack.com/archives/C097SKNED9P/p1757012902282459](https://ecompropeller.slack.com/archives/C097SKNED9P/p1757012902282459 ""smartCard-inline"")"
+2025-09-04T19:12:02.048Z,Ismail Hossain,6800d488046a27c80487e85a,howmuchbitcoin-merchandise-store.myshopify.com,67cfccadfcb65f0f52ed5873,Live,"![image.png](https://trello.com/1/cards/67cfccadfcb65f0f52ed5873/attachments/68b9e47e982b328e3dd13506/download/image.png)
+
+![image.png](https://trello.com/1/cards/67cfccadfcb65f0f52ed5873/attachments/68b9e471a17e3aa09749422e/download/image.png)"
+2025-09-04T19:10:01.947Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: aeropress-coffee.myshopify.com,68353cc0cbbf5db3f177b636,Tickets: Completed,"it says the button and button hover is red, #F8F8F8
+
+But its showing grey and blue
+
+i looked and it as already showing as that
+
+i save it and also change the redirect URL and neither saved on reload
+
+should be /collections/shop-all and button #B52222
+
+Also noticed if an upsell has no discount the price is red
+
+
+![image.png](https://trello.com/1/cards/68353cc0cbbf5db3f177b636/attachments/68b9e40603e607a76dbd0b06/download/image.png)"
+2025-09-04T18:55:44.707Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,![image.png](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68b9e0ac558f2b4cef1626ea/download/image.png)
+2025-09-04T18:54:01.649Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Waiting on Merchant,![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68b9e045d11ec69b3bef3509/download/image.png)
+2025-09-04T18:42:51.536Z,Ismail Hossain,6800d488046a27c80487e85a,deltoroshoes.myshopify.com,68831149a244528fd9ccf8e4,Waiting on Merchant,"![image.png](https://trello.com/1/cards/68831149a244528fd9ccf8e4/attachments/68b9dd72ac257bc74bc6875f/download/image.png)
+
+Merchant will schedule a call for walkthrough of the setup."
+2025-09-04T18:18:54.479Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,"That looks much better, although I'm still seeing a few formatting issues:
+
+1. Can the product title be in our site's heading font (MADE Dillan)? If that's not possible then it should at least be Bold (but not both).
+
+1. The Discount field is missing a $ dollar sign. 
+
+1. The pricing & sale price is formatted plainly and it would be better to draw attention to the sale price/large discount.
+
+My biggest concern is that the screenshot you're showing me doesn't match the dashboard preview - so when I'm setting these up I have no way of knowing what the customer will see if it's not going to match the preview in your dashboard. I'm not very comfortable launching something that requires me to place a test order every time I need to confirm if it's displaying correctly or not.
+
+![2025-09-04 10\_54\_47-.png](https://mail.google.com/mail/u/1?ui=2&ik=83e8dd9a1b&attid=0.15&permmsgid=msg-f:1842353839590362062&th=19915b0e4f5c4bce&view=fimg&fur=ip&permmsgid=msg-f:1842353839590362062&sz=s0-l75-ft&attbid=ANGjdJ8T7Hc_T73Yfp4wVeHfmo76LmS6YlokaZxyVT2toCrHk0f0P_y0y1oSD-e7P6yW5E3nnye3I309mRdtNGoYBHeyYEJ7eGBFI70UL4E3BRU6vrFz7x_rnI0FM7E&disp=emb&realattid=ii_mf5nh8w614&zw)
+
+And lastly, I noticed that in my dashboard this post-purchase is still setup as both a Campaign and a Flow and I'm not sure which one is triggering here in your test.
+
+I want it to be the Flow only so that way it shows the second upsell/downsell based on whether they accept or decline the first offer, and so I can easily configure a different primary offer if they already have the Mystery Blanket in their cart. 
+
+That means I also need you to confirm that the entire post-purchase flow is working correctly and that each offer is displaying correctly with all the formatting issues.
+
+I really hoped this was going to be a much easier process but it feels like your post-purchase experience still needs a lot of work to be honest. I appreciate your help in getting this to the level it needs to be to finally replace my Zipify app ASAP."
+2025-09-04T14:42:33.575Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,"![image.png](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68b9a54fcad5b8f2ec8c199e/download/image.png)
+
+
+Solved by @ab1dhasan"
+2025-09-04T13:28:56.964Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,![image.png](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68b99415885de31042017330/download/image.png)
+2025-09-04T12:32:17.795Z,Ismail Hossain,6800d488046a27c80487e85a,the-best-backyard.myshopify.com,68a701386e1081834b2b4f26,In Progress,![image.png](https://trello.com/1/cards/68a701386e1081834b2b4f26/attachments/68b986cc8a34ce54ff7a9ea4/download/image.png)
+2025-09-04T12:21:13.415Z,Ismail Hossain,6800d488046a27c80487e85a,Ticket: busy-baby-mat.myshopify.com,68b983f3c320f8b151960ee8,Tickets,![image.png](https://trello.com/1/cards/68b983f3c320f8b151960ee8/attachments/68b9843642cc3d714f1aeaca/download/image.png)
+2025-09-04T12:04:28.107Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b98048c28d175019e19c8f/download/image.png)
+2025-09-04T12:03:29.216Z,Ismail Hossain,6800d488046a27c80487e85a,howmuchbitcoin-merchandise-store.myshopify.com,67cfccadfcb65f0f52ed5873,Live,![image.png](https://trello.com/1/cards/67cfccadfcb65f0f52ed5873/attachments/68b9800d9dd7e6abeb9488ae/download/image.png)
+2025-09-04T11:33:20.951Z,Jahid Howlader,66d94246eb5a817763092255,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,I have solved currency issue based my market.
+2025-09-04T10:48:59.621Z,Ismail Hossain,6800d488046a27c80487e85a,howmuchbitcoin-merchandise-store.myshopify.com,67cfccadfcb65f0f52ed5873,Live,![image.png](https://trello.com/1/cards/67cfccadfcb65f0f52ed5873/attachments/68b96e9725969b06b6f67e89/download/image.png)
+2025-09-04T10:06:34.054Z,Ismail Hossain,6800d488046a27c80487e85a,aromanticltd.myshopify.com,6717cd667a254ad06897141b,Live,"![image.png](https://trello.com/1/cards/6717cd667a254ad06897141b/attachments/68b9649b16446ca7e083bc43/download/image.png)
+
+![image.png](https://trello.com/1/cards/6717cd667a254ad06897141b/attachments/68b964a656b68651b0b009e2/download/image.png)"
+2025-09-04T09:59:38.586Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,68358adde86e0dc52806b7ba,Tickets: Completed,"Fixed by Jason
+
+
+![image.png](https://trello.com/1/cards/68358adde86e0dc52806b7ba/attachments/68b96306481c91a341af5211/download/image.png)"
+2025-09-03T14:08:32.441Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,Currency issue +  they should be able to add more then 1 if they have more than 1 trigger product.
+2025-09-03T13:55:06.842Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"currency is better but still not quite right [\@Ismail Hossain](https://ecompropeller.slack.com/team/U08NQAWET44 ""‌"") [\@Rumi](https://ecompropeller.slack.com/team/U05AB3D5EV6 ""‌"")
+
+‌
+
+This  is what they should be -
+
+
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b84757aa6b224ad799ea84/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b847503d5bac66011782f8/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b8474a084e1c7a670d6e53/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b847250c4cdea666d155e1/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b8472f9c7b656c04b4172a/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b8473fbc24562a7d7b1e70/download/image.png)"
+2025-09-03T13:27:25.844Z,Ismail Hossain,6800d488046a27c80487e85a,aeropress-coffee.myshopify.com,68353cc0cbbf5db3f177b636,Tickets: Completed,"Upsell image, Shipping banner Resolved by @jahidhowlader1
+
+Queries answered as well."
+2025-09-03T13:20:06.853Z,Abu Raihan,66c8623ff0963b3cad6251be,feey-plants.myshopify.com,68620d99f9563ee5e3524c44,QA,"Dynamatic zones have been added to every product page that contains two or more products.
+@samiul37"
+2025-09-03T12:03:43.122Z,Ismail Hossain,6800d488046a27c80487e85a,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,"On the homepage, the New Arrivals section is dynamic (coming from the ""Dynamatic"" application) [https://prnt.sc/k3pfQG41agNh](https://prnt.sc/k3pfQG41agNh ""smartCard-inline"")  , but the button has been custom-added. We want to add the same button so that when clicked, it redirects to the New Arrivals landing page and displays the exact same products as shown on the homepage, starting from the same product. Currently, we are updating this manually, but whenever products are changed in New Arrivals, we also have to update the collection manually. We need a dynamic solution so that when products are updated in New Arrivals, the landing page automatically shows the same products. Is this possible?
+If you have any further queries, please let me know.
+Thank you!
+Live Theme:- Deals Page Spotlight
+Theme URL:-  [https://villagecraftandcandle.com/](https://villagecraftandcandle.com/ ""smartCard-inline"") CC: [\@Juliana Walckoff](https://ecompropeller.slack.com/team/U02BA9H37EU ""‌"") 
+
+---
+
+
+**Samiul Alim**  
+
+Hi [\@khushboo lad](https://ecompropeller.slack.com/team/U02L4TGE3UY ""‌""), the New Arrivals widget works dynamically — new products added to the collection will show up right away without needing a manual update. If you had a different area in mind, could you let us know? We may not be aware of it.
+
+---
+
+
+
+**khushboo lad**  
+Hi [\@Samiul Alim](https://ecompropeller.slack.com/team/U05QJMA6LGH ""‌""),
+Thanks for clarifying! Yes, the New Arrivals widget is dynamic on the homepage, but our concern is specifically with the **custom button** that redirects to the New Arrivals landing page.Currently, when clicking the button, the landing page does not automatically reflect the same products as shown dynamically on the homepage (we need to update the collection manually).What we’re looking for is a **dynamic connection** — so whenever the homepage New Arrivals section updates, the landing page also updates automatically with the same set of products, without any manual update required.Could you please confirm if this setup is possible or guide us on the best way to achieve it?Thank you!"
+2025-09-03T10:58:01.897Z,Samiul Alim,65a11752f9822c63c9cde145,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,DIsocunt display issue and review display issue sorted
+2025-09-03T10:57:33.417Z,Samiul Alim,65a11752f9822c63c9cde145,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,@ismailhossain64
+2025-09-03T10:57:22.048Z,Samiul Alim,65a11752f9822c63c9cde145,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,Currency issue checked and sorted
+2025-09-03T10:25:31.397Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Access Granted,"We have access to their store, please initiate cart setup"
+2025-09-03T10:17:05.205Z,Ismail Hossain,6800d488046a27c80487e85a,the-christmas-light-emporium.myshopify.com,67c8bd16c7fe35a298d0a035,Uninstalled - Followed  up,"Installed again
+
+![image.png](https://trello.com/1/cards/67c8bd16c7fe35a298d0a035/attachments/68b8159e9e7ff24752bcb35d/download/image.png)"
+2025-09-03T10:10:22.733Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,"Hi again,
+
+‌
+
+Yesterday – as per our email correspondence – we removed the free jewellery box from the cart and only have the free shipping.
+
+‌
+
+However, late last night someone manged to get the jewellery box for free. I don’t get it.
+
+‌
+
+I see widget 3687 (_Tiered shipping and gift_) in the order but it has status OFF
+
+
+![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b814015b2594873d5ae5c3/download/image.png)
+
+![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b8140938414f2b05cf3f5a/download/image.png)"
+2025-09-03T07:28:37.017Z,Samiul Alim,65a11752f9822c63c9cde145,feey-plants.myshopify.com,68620d99f9563ee5e3524c44,QA,In QA (Except CHECKOUT AND POST PURCHASE )
+2025-09-03T07:28:14.113Z,Samiul Alim,65a11752f9822c63c9cde145,feey-plants.myshopify.com,68620d99f9563ee5e3524c44,QA,"[https://trello.com/c/07AfrHGD/517-qa-of-feey](https://trello.com/c/07AfrHGD/517-qa-of-feey ""smartCard-inline"")"
+2025-09-03T06:24:09.803Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68b7defbad36d7f63976c115/download/image.png)
+2025-09-02T19:17:45.991Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,68358adde86e0dc52806b7ba,Tickets: Completed,"- upon clicking the ""add to cart"" button, it appears to be unresponsive.
+- Only until you refresh the page or go to a different page, you can then see the product quantity on the cart icon in the top right corner of the website update to reflect the number of times you had clicked ""Add to cart"".
+- but when you click the cart icon to access the cart page, it does not allow you to access it.
+- [click here to watch the video](https://shopify.click/kzd7x-1zvng-twvbt-s1gmj-kvlmx.mp4 ""‌"")"
+2025-09-02T19:04:41.597Z,Ismail Hossain,6800d488046a27c80487e85a,the-great-fantastic-store.myshopify.com,68358adde86e0dc52806b7ba,Tickets: Completed,"I just noticed our site add to cart and cart buttons are not working....can you help me troubleshoot the issue?
+
+Not sure if it's related to the app.
+
+seems to be happening on multiple devices"
+2025-09-02T18:34:42.567Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,"‌
+
+It's the cart - the format isn't what we've been using, it appears to have defaulted back to the look and feel from the Navidum app with the recommendations from Search & Discovery
+
+
+![image.png](https://trello.com/1/cards/6805e5650c70a9d7dd2543d2/attachments/68b738b38ca7aa2036cb503d/download/image.png)"
+2025-09-02T18:28:17.976Z,Ismail Hossain,6800d488046a27c80487e85a,shopbilletworkz.myshopify.com,6805e5650c70a9d7dd2543d2,Live,"can you look in to something for me please? I was in the Navidium and Search & Discovery app this morning and I think that some changes I made overrode the Dynamatic cart we had set up - can you look in to it for me? I was working in a duplicate (not live) theme this morning, so I guess I didn't think it would impact anything in the live experience, but it appears it has "
+2025-09-02T17:47:15.737Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,![image.png](https://trello.com/1/cards/67b911ac0dcc0f673fc0c87f/attachments/68b72d925b6a5587d2fdfca7/download/image.png)
+2025-09-02T17:15:24.267Z,Ismail Hossain,6800d488046a27c80487e85a,trek-light-gear.myshopify.com,67b911ac0dcc0f673fc0c87f,Live,"Thanks Ishmael. That's great that it's displaying, but I see several issues in that screenshot that shouldn't have been sent until it's fixed.
+
+The text in the top section is displaying as HTML code, and the text in the bottom is displaying without any of the expected paragraph breaks and there are special characters showing where there should be stars.
+
+Can you please look into this and help me get it fixed ASAP?"
+2025-09-02T17:13:29.586Z,Ismail Hossain,6800d488046a27c80487e85a,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,"I see this spacing when I first load the cart
+
+
+![image.png](https://trello.com/1/cards/68aee580cb57acda700fa38d/attachments/68b725b5da7100770a93e0b3/download/image.png)"
+2025-09-02T17:10:34.239Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b72507e2d611703acd843c/download/image.png)
+2025-09-02T17:07:20.539Z,Ismail Hossain,6800d488046a27c80487e85a,aeropress-coffee.myshopify.com,68353cc0cbbf5db3f177b636,Tickets: Completed,"How do we edit this cta color in the empty cart?
+
+![image.png](https://trello.com/1/cards/68353cc0cbbf5db3f177b636/attachments/68b7240b4262b3fa945dc235/download/image.png)
+
+the product order doesnt seem to match the widget either 
+
+The upsell image is still showing bigger than the main product image, upsell should be a smaller image
+
+
+![image.png](https://trello.com/1/cards/68353cc0cbbf5db3f177b636/attachments/68b724278a64af571cd1c287/download/image.png)
+
+The shipping Banner is missing the \*Spend $20.05 and receive Free ShippingShould be Spend $20.05 and receive Free Shipping\*it shows in the widget though?
+
+
+![image.png](https://trello.com/1/cards/68353cc0cbbf5db3f177b636/attachments/68b72438d64dc4357034f451/download/image.png)
+
+![image.png](https://trello.com/1/cards/68353cc0cbbf5db3f177b636/attachments/68b724458b0ff62bbeb64758/download/image.png)"
+2025-09-02T15:36:03.188Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b70ebbbc4c6c0478bb504e/download/image.png)
+
+‌
+
+Also just checking on foreign currencies - doesn't look like it's accurate still.
+
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b70ee0b71306372a20a0bf/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b70ed83e2e73fb0ee9dc70/download/image.png)"
+2025-09-02T15:07:11.255Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"We need to make sure they can't subscribe to this item - since its a promo deal, we want it to be a one time purchase
+
+‌
+
+Also looks like it's being placed in the cart in two places?
+
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b7081b08a4bf3eb87f8a4b/download/image.png)"
+2025-09-02T15:00:41.851Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68b706961faf62dd00510c2f/download/image.png)
+2025-09-02T14:54:30.031Z,Samiul Alim,65a11752f9822c63c9cde145,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,ok
+2025-09-02T14:54:16.393Z,Samiul Alim,65a11752f9822c63c9cde145,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,Which sheet? @ismailhossain64
+2025-09-02T14:53:24.313Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,@ismailhossain64
+2025-09-02T14:53:14.457Z,Samiul Alim,65a11752f9822c63c9cde145,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"We have updated our slide cart so some parts might have been changed. let us know if you notice anything unusual.
+The changes have been made .
+You can explore our cart customization and others to utilize the full app of ours
+
+![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68b70483b656b2c0b73be16a/download/image.png)"
+2025-09-02T14:36:41.917Z,Ismail Hossain,6800d488046a27c80487e85a,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,@samiul37  Please review the spreadsheet attached below
+2025-09-02T14:34:06.239Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b700518d332b94b8b6ac43/download/image.png)
+2025-09-02T14:16:31.623Z,Samiul Alim,65a11752f9822c63c9cde145,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"This is the test discount you will need to enable it first,
+then open the product link in incognito : [https://yu-products.myshopify.com/products/yu-beauty-collagen?dynamatic_yu](https://yu-products.myshopify.com/products/yu-beauty-collagen?dynamatic_yu ""smartCard-inline"")
+add the product to cart and you'll see the widget
+add the discounted item to cart then you will see the discount applied
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b6fbf865481e7e82941575/download/image.png)
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b6fbab0d17fece48e7b429/download/image.png)"
+2025-09-02T14:09:16.596Z,Ismail Hossain,6800d488046a27c80487e85a,yu-products.myshopify.com,68467bd11c84a4c9ee5796f9,Live,"‌
+
+![image.png](https://trello.com/1/cards/68467bd11c84a4c9ee5796f9/attachments/68b6fa856ed67b9e39b57d8d/download/image.png)"
+2025-09-02T13:56:30.554Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,![image.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68b6f78b6ec7a6fcebda6361/download/image.png)
+2025-09-02T13:36:10.965Z,Samiul Alim,65a11752f9822c63c9cde145,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,![image.png](https://trello.com/1/cards/6721de4bdc1b3f451de7fbbc/attachments/68b6f2bdfc6b91c756e7b127/download/image.png)
+2025-09-02T13:35:47.883Z,Samiul Alim,65a11752f9822c63c9cde145,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,We have checked and found out it has a specific audience to match . Details provided to @ismailhossain64
+2025-09-02T13:09:15.488Z,Ismail Hossain,6800d488046a27c80487e85a,village-craft-candle.myshopify.com,6721de4bdc1b3f451de7fbbc,Live,"Good afternoon! It seems the cross sell rules ([see checkout tab of this document](https://docs.google.com/spreadsheets/d/1w8MVP48-kcls0OrUwm9pshd5eIxeJ9K3QEbg0fWIaDI/edit?usp=sharing ""‌"")) are still not showing up on the checkout page. Could you please double check?
+
+![image.png](https://trello.com/1/cards/6721de4bdc1b3f451de7fbbc/attachments/68b6ec77476597ca22e1eb4f/download/image.png)
+
+![image.png](https://trello.com/1/cards/6721de4bdc1b3f451de7fbbc/attachments/68b6ec712648913ce5703b2f/download/image.png)"
+2025-09-02T13:01:04.644Z,Ismail Hossain,6800d488046a27c80487e85a,rodelopers.myshopify.com,6892e621e9dec6cec774f26b,Waiting on Merchant,"Hi Ishmael,
+
+Thanks for the link. I will schedule a time through the link.
+
+I would like to highlight a few points in the current setup that are not functioning as expected:
+
+1. **Cart & Product Details (1)**
+   At the moment, products are added to the cart in such a way that employees cannot see which specific product has been ordered. For example, when ordering _15 meters long and 1 meter wide_, the checkout only shows “15x” without any indication of the dimensions. This makes it unclear which product has actually been purchased. Ideally, the full product details (including size/dimensions) should also appear in the cart and checkout.
+2. **Label Change**  **(2)**
+   The current label for the order summary should be changed to **“Totaal”** instead.
+3. **Remove Text**  **(3)**
+   The text currently displayed under point 3 should be removed entirely. Unfortunately, I am not able to make this change myself.
+
+Could you please let me know what options are available to resolve these issues?
+
+Looking forward to your feedback.
+
+
+
+
+![Schermafbeelding\_2025-09-02\_145700.png](https://trello.com/1/cards/6892e621e9dec6cec774f26b/attachments/68b6ea8cb58b9bdb6f54de2e/download/Schermafbeelding_2025-09-02_145700.png)"
+2025-09-02T12:23:35.565Z,Ismail Hossain,6800d488046a27c80487e85a,parenity.myshopify.com,6735b946cb40a503459df989,Live,![image.png](https://trello.com/1/cards/6735b946cb40a503459df989/attachments/68b6e1c3b24f4df47f3f7190/download/image.png)
+2025-09-02T10:51:14.177Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b6cc1e298e1dfc0a4d7ea5/download/image.png)
+2025-09-02T10:09:54.884Z,Ismail Hossain,6800d488046a27c80487e85a,the-best-backyard.myshopify.com,68a701386e1081834b2b4f26,In Progress,![image.png](https://trello.com/1/cards/68a701386e1081834b2b4f26/attachments/68b6c26c0e3cece65a7db95e/download/image.png)
+2025-09-02T09:53:19.399Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,"Okay, Im glad I asked.
+
+‌
+
+I’m pretty sure, all pickup points we receive from our shipping provider will have “pakkeshop” in the name – so “name contains” should work. Thanks for making these corrections."
+2025-09-01T13:48:53.062Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,"![image.png](https://trello.com/1/cards/67c9188b12103478fa8c95dc/attachments/68b5a42ef1186ef9a92a2353/download/image.png)
+
+![image.png](https://trello.com/1/cards/67c9188b12103478fa8c95dc/attachments/68b5a441392ba9af22b11049/download/image.png)"
+2025-09-01T12:31:41.934Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b592283f0099faf07b0d86/download/image.png)
+2025-09-01T11:48:58.087Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,![image.png](https://trello.com/1/cards/67c9188b12103478fa8c95dc/attachments/68b58826986d3cbc7b6f4277/download/image.png)
+2025-09-01T11:44:32.031Z,Samiul Alim,65a11752f9822c63c9cde145,littlebeastnyc.myshopify.com,68aee580cb57acda700fa38d,In Progress,"[https://trello.com/c/l7DCieM4/504-include-main-item-and-show-main-item-in-fbt](https://trello.com/c/l7DCieM4/504-include-main-item-and-show-main-item-in-fbt ""smartCard-inline"")
+implementation of this is in progress in theme section"
+2025-09-01T11:22:47.159Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b5820357de883a62c8ad4d/download/image.png)
+2025-09-01T11:16:26.857Z,Ismail Hossain,6800d488046a27c80487e85a,swifttesting.myshopify.com,67c9188b12103478fa8c95dc,Live,"Hello!
+
+It appears the LABOR25 coupon is not working as it has been.  When I enter the code in on a product it should apply for, it says ""wrong discount code"" and does not discount the product, however it does add the free toy and offers free shipping.  It should also apply 10% off to any kit or bundle.  As a reminder, we want the 10% discount, free shipping, and free toy to apply t the following products:
+
+Pounce
+
+Chase
+
+Chase Bundle
+
+Home Original
+
+Home Original Bundle
+
+Home Plus
+
+Home Plus Bundles
+
+Please help us fix this urgent matter, we have an email scheduled to go out in two hours.  Thank you!"
+2025-09-01T10:37:22.711Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,"![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b5772b11bdd3071dc219ae/download/image.png)
+
+![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b57745b2456e91f70fc105/download/image.png)
+
+
+
+![image.png](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b5775f5efa1f53be9229b0/download/image.png)"
+2025-09-01T10:35:54.323Z,Ismail Hossain,6800d488046a27c80487e85a,trollbeadsdk.myshopify.com,68232df56b19d98f82ed2b88,Live,"[Ecom Propeller Mail - Just Checking In – Ready to Go Live with Dynamatic_.pdf](https://trello.com/1/cards/68232df56b19d98f82ed2b88/attachments/68b576fb1c0490aab5a870c7/download/Ecom_Propeller_Mail_-_Just_Checking_In_%E2%80%93_Ready_to_Go_Live_with_Dynamatic_.pdf ""‌"")"
+2025-09-01T10:10:44.671Z,Ismail Hossain,6800d488046a27c80487e85a,aromanticltd.myshopify.com,6717cd667a254ad06897141b,Live,![image.png](https://trello.com/1/cards/6717cd667a254ad06897141b/attachments/68b57120e62acdaa950cdb78/download/image.png)
+2025-09-01T10:06:32.805Z,Ismail Hossain,6800d488046a27c80487e85a,1i1rt1-j0.myshopify.com,6892f00ec0f6c2c4b0e73dc3,Live,"![image.png](https://trello.com/1/cards/6892f00ec0f6c2c4b0e73dc3/attachments/68b57025f788c19ab677f18f/download/image.png)
+
+![image.png](https://trello.com/1/cards/6892f00ec0f6c2c4b0e73dc3/attachments/68b5703f6280d79535a70ad5/download/image.png)"
